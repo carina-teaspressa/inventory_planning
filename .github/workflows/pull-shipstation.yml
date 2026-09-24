@@ -1,0 +1,42 @@
+name: Pull ShipStation open orders
+
+on:
+  schedule:
+    # 6:00 AM Arizona time (MST, UTC-7, no daylight saving) = 13:00 UTC
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}   # adds the manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: shipstation-pull
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull open orders
+        env:
+          SHIPSTATION_API_KEY: ${{ secrets.SHIPSTATION_API_KEY }}
+          SHIPSTATION_API_SECRET: ${{ secrets.SHIPSTATION_API_SECRET }}
+        run: python scripts/pull_shipstation.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name "shipstation-pull"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/open_orders.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update open orders $(date -u +%Y-%m-%d)"
+            git push
+          fi
