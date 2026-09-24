@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Mini planning</title>
+  <link rel="stylesheet" href="https://use.typekit.net/evl2kxt.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&display=swap">
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="plan.css">
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>Mini planning</h1>
+        <div class="sub" id="source">Loading open orders…</div>
+      </div>
+      <button class="btn ghost" id="csvBtn" disabled>Download plan as CSV</button>
+    </header>
+
+    <div class="err" id="err" role="alert"></div>
+
+    <main id="app" hidden>
+      <section class="panel controls-bar">
+        <div class="controls">
+          <label>Group by
+            <select id="group">
+              <option value="total" selected>All open orders</option>
+              <option value="week">Week ordered</option>
+              <option value="day">Day ordered</option>
+            </select>
+          </label>
+          <label>Order age
+            <select id="age">
+              <option value="" selected>Any age</option>
+              <option value="30">Last 30 days</option>
+              <option value="60">Last 60 days</option>
+              <option value="90">Last 90 days</option>
+            </select>
+          </label>
+          <fieldset class="checks">
+            <legend>Order status</legend>
+            <label><input type="checkbox" value="awaiting_shipment" class="st" checked> Awaiting shipment</label>
+            <label><input type="checkbox" value="on_hold" class="st" checked> On hold</label>
+          </fieldset>
+          <label class="grow">Find a flavor
+            <input type="search" id="q" placeholder="Name or LM code">
+          </label>
+        </div>
+      </section>
+
+      <section class="tally" id="tally" aria-live="polite"></section>
+
+      <div class="warn" id="warn" hidden></div>
+
+      <section class="panel">
+        <h2>What to make</h2>
+        <p class="note">One tube and one label per Mini. Minis hold 6 cubes; Rimmers hold 0.</p>
+        <div id="plan"></div>
+      </section>
+
+      <section class="grid2 wide">
+        <div class="panel">
+          <h2>Kits on these orders</h2>
+          <div class="tablewrap scroll"><table id="kits"></table></div>
+        </div>
+        <div class="panel">
+          <h2>SKUs the plan can't count yet</h2>
+          <p class="note">Add these to products.csv, or fix the SKU in ShipStation.</p>
+          <div class="tablewrap scroll"><table id="unmapped"></table></div>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="plan-core.js"></script>
+  <script src="plan.js"></script>
+</body>
+</html>
