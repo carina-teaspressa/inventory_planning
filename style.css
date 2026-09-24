@@ -1,40 +1,30 @@
 :root {
-  --bg: #f6f7f4;
-  --panel: #fff;
-  --ink: #1d2622;
-  --mute: #66736c;
-  --line: #dfe4de;
-  --accent: #1f7a5c;
-  --accent-ink: #fff;
-  --chip: #eaf1ed;
+  /* Teaspressa brand palette (branding guidelines, p.34-36) */
+  --brand-white: #ffffff;
+  --brand-charcoal: #1b1a18;
+  --brand-cream: #eae5d9;
+  --brand-rust: #a35536;
+  --brand-mimosa: #f09a11;
+  --brand-mint: #c0c8ac;
+  --brand-forest: #2d463c;
+
+  --bg: #fbfbfb;       /* off-white page */
+  --panel: #ffffff;    /* white */
+  --ink: #1b1a18;      /* charcoal */
+  --mute: #66635d;     /* charcoal, softened */
+  --line: #e3ddd0;     /* cream, one step deeper */
+  --accent: #2d463c;   /* forest */
+  --accent-ink: #ffffff;
+  --chip: #f4f1eb;     /* cream at 50% */
+  --font-sans: "proxima-nova", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Bricolage Grotesque", var(--font-sans);
+  color-scheme: light; /* always light, even when the device is in dark mode */
   box-sizing: border-box;
   padding-top: env(safe-area-inset-top, 0px);
   padding-bottom: env(safe-area-inset-bottom, 0px);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme="light"]) {
-    --bg: #121815;
-    --panel: #1a221e;
-    --ink: #e8efe9;
-    --mute: #93a39a;
-    --line: #2b362f;
-    --accent: #4cc39a;
-    --accent-ink: #0d1a14;
-    --chip: #243029;
-  }
-}
 
-:root[data-theme="dark"] {
-  --bg: #121815;
-  --panel: #1a221e;
-  --ink: #e8efe9;
-  --mute: #93a39a;
-  --line: #2b362f;
-  --accent: #4cc39a;
-  --accent-ink: #0d1a14;
-  --chip: #243029;
-}
 
 * {
   box-sizing: border-box;
@@ -48,11 +38,11 @@ body {
   margin: 0;
   background: var(--bg);
   color: var(--ink);
-  font: 400 15px/1.5 Figtree, system-ui, sans-serif;
+  font: 400 15px/1.5 var(--font-sans);
 }
 
 h1, h2 {
-  font-family: "Bricolage Grotesque", Figtree, sans-serif;
+  font-family: var(--font-display);
   margin: 0;
 }
 
@@ -161,7 +151,7 @@ button:focus-visible, select:focus-visible, input:focus-visible, .drop:focus-vis
 
 .kpi b {
   display: block;
-  font: 700 24px "Bricolage Grotesque", sans-serif;
+  font: 700 24px var(--font-display);
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
