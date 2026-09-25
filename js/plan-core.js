@@ -158,25 +158,52 @@
   }
 
   /* ---------- Reference data ---------- */
-  function build({ products, components, minis }) {
+  function build({ products, components, minis, aliases }) {
     const prod = new Map(products.map(p => [p.sku, p]));
     const cases = new Map();
     products.forEach(p => { if (p.case_sku) cases.set(p.case_sku, { kit: p.sku, qty: +p.case_qty || 6 }); });
     const comps = new Map();
     components.forEach(c => { if (!comps.has(c.parent_sku)) comps.set(c.parent_sku, []); comps.get(c.parent_sku).push(c); });
     const mini = new Map(minis.map(m => [m.lm_code, m]));
-    return { prod, cases, comps, mini };
+    const alias = new Map();                        // old SKU -> current SKU (upper-case keys)
+    (aliases || []).forEach(a => { if (a.old_sku && a.new_sku) alias.set(a.old_sku.trim().toUpperCase(), a.new_sku.trim()); });
+    return { prod, cases, comps, mini, alias };
+  }
+
+  /* Current SKU for an order SKU:
+     1. a SKU in products.csv (or a case SKU) is used as is
+     2. an old SKU listed in sku_aliases.csv becomes its new SKU
+     3. a sample (ends in -S) is the same product as the SKU without -S. If that isn't a SKU itself,
+        it matches the one product whose SKU starts with it (SM006-S -> SM006-BL). */
+  function resolveSku(ref, sku) {
+    const known = s => ref.prod.has(s) || ref.cases.has(s);
+    if (!sku || known(sku)) return { sku, via: null };
+    const a = ref.alias.get(sku.toUpperCase());
+    if (a) return { sku: a, via: 'alias' };
+    const m = sku.match(/^(.+)-S$/i);
+    if (m) {
+      const base = m[1];
+      if (known(base)) return { sku: base, via: 'sample' };
+      const hits = [...ref.prod.keys()].filter(k => k.toUpperCase().startsWith(base.toUpperCase() + '-') && !/-S$/i.test(k));
+      if (hits.length === 1) return { sku: hits[0], via: 'sample' };
+      return { sku, via: 'sample', unresolved: hits.length ? `Sample matches ${hits.length} products (${hits.join(', ')})` : `Sample of ${base}, which isn't in products.csv` };
+    }
+    return { sku, via: null };
   }
 
   /* ---------- Demand: ShipStation lines + PO lines, one list ---------- */
   /* opts: { statuses:Set, maxAgeDays, includePO:boolean, today } */
   function demand(ref, orders, poLines, opts) {
-    const out = [], replaced = { lines: 0, units: 0 };
+    const out = [], replaced = { lines: 0, units: 0 }, renamed = { lines: 0, units: 0 };
     const pos = opts.includePO ? poLines.filter(p => p.status === 'open') : [];
-    const resolve = (sku, source) => {                  // case SKU -> kit. PO units are already finished units.
-      const c = ref.cases.get(sku); if (!c) return { sku, mult: 1 };
-      return { sku: c.kit, mult: source === 'ShipStation' ? c.qty : 1 };
+    const resolve = (raw, source) => {                  // old/sample SKU -> current SKU, then case SKU -> kit. PO units are already finished units.
+      const r = resolveSku(ref, raw);
+      const c = ref.cases.get(r.sku);
+      const base = { via: r.via, unresolved: r.unresolved };
+      if (!c) return { ...base, sku: r.sku, mult: 1 };
+      return { ...base, sku: c.kit, mult: source === 'ShipStation' ? c.qty : 1 };
     };
+    const note = (d, r) => { d.via = r.via; d.unresolved = r.unresolved; if (r.via && !r.unresolved) { renamed.lines++; renamed.units += d.units; } };
     const rules = pos.filter(p => p.replaces_shipstation).map(p => ({ prefix: p.replaces_shipstation, sku: resolve(p.sku, 'PO').sku }));
 
     for (const l of orders) {
@@ -186,16 +213,16 @@
       const r = resolve(l.sku, 'ShipStation');
       if (rules.some(x => l.order_number.startsWith(x.prefix) && x.sku === r.sku)) { replaced.lines++; replaced.units += l.qty * r.mult; continue; }
       const d = { source: 'ShipStation', ref: l.order_number, order_date: l.order_date, raw_sku: l.sku, sku: r.sku, units: l.qty * r.mult };
-      d.window = windowFor(d, opts.today); out.push(d);
+      note(d, r); d.window = windowFor(d, opts.today); out.push(d);
     }
     for (const p of pos) {
       if (!(p.units > 0)) continue;
       const r = resolve(p.sku, 'PO');
       const d = { source: 'PO', ref: p.po_number, customer: p.customer, order_date: p.commit_date, commit_date: p.commit_date,
                   lead_weeks: p.lead_weeks, raw_sku: p.sku, sku: r.sku, units: p.units };
-      d.window = windowFor(d, opts.today); out.push(d);
+      note(d, r); d.window = windowFor(d, opts.today); out.push(d);
     }
-    return { lines: out, replaced };
+    return { lines: out, replaced, renamed };
   }
 
   /* ---------- Plan ---------- */
@@ -227,7 +254,10 @@
       const add = (lm, n, via) => { bump(periods, key, lm, n, via); bump(byWindow, l.window, lm, n, via); };
       if (!l.sku) { miss('', l.units, 'Order line has no SKU in ShipStation'); continue; }
       const p = prod.get(l.sku);
-      if (!p) { miss(l.raw_sku, l.units, 'Not in products.csv'); continue; }
+      if (!p) {
+        miss(l.raw_sku, l.units, l.unresolved || (l.via === 'alias' ? `Old SKU for ${l.sku}, which isn't in products.csv` : 'Not in products.csv'));
+        continue;
+      }
       if (p.product_type === 'Kit') {
         const list = comps.get(l.sku) || [];
         const status = list.length === 0 ? 'No contents on file' : list.length < 3 ? 'Missing a tube' : 'Counted';
@@ -291,7 +321,7 @@
     };
   }
 
-  const api = { parseCSV, toCSV, normDate, weekStart, windowFor, windowLabel, AGE_RULES, FILES,
+  const api = { resolveSku, parseCSV, toCSV, normDate, weekStart, windowFor, windowLabel, AGE_RULES, FILES,
                 readOrders, readPO, readInventory, inventoryNow, build, demand, plan };
   if (typeof module !== 'undefined') module.exports = api; else root.PlanCore = api;
 })(this);
