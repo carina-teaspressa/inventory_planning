@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>CSV Dashboard</title>
+
+  <link rel="stylesheet" href="https://use.typekit.net/evl2kxt.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div>
+        <h1>CSV Dashboard</h1>
+        <div class="sub" id="fileinfo">Load a CSV to build a dashboard. Files stay in your browser.</div>
+      </div>
+      <div class="row" id="topbtns" hidden>
+        <button class="btn ghost" id="newBtn">Load another file</button>
+      </div>
+    </header>
+
+    <div id="dropzone" class="drop" tabindex="0" role="button" aria-label="Upload a CSV file">
+      <h2>Drop a CSV here</h2>
+      <p>Columns, types and charts are detected automatically. Comma, semicolon and tab delimiters work.</p>
+      <div class="row">
+        <button class="btn" id="pickBtn">Choose file</button>
+        <button class="btn ghost" id="sampleBtn">Try sample data</button>
+      </div>
+      <div class="err" id="err" role="alert"></div>
+    </div>
+    <input type="file" id="file" accept=".csv,.tsv,.txt,text/csv" hidden>
+
+    <main id="dash" hidden>
+
+      <section class="kpis" id="kpis"></section>
+
+      <section class="panel">
+
+        <div class="controls">
+          <label>Group by<select id="xSel"></select></label>
+
+          <label id="dateWrap" hidden>Date grouping
+            <select id="dateSel">
+              <option value="day">Day</option>
+              <option value="month" selected>Month</option>
+              <option value="year">Year</option>
+            </select>
+          </label>
+
+          <label>Measure<select id="mSel"></select></label>
+
+          <label>Aggregate
+            <select id="aSel">
+              <option value="sum">Sum</option>
+              <option value="avg">Average</option>
+              <option value="count">Count</option>
+              <option value="max">Max</option>
+              <option value="min">Min</option>
+            </select>
+          </label>
+
+          <label>Chart
+            <select id="tSel">
+              <option value="bar">Bar</option>
+              <option value="line">Line</option>
+              <option value="doughnut">Doughnut</option>
+              <option value="horizontal">Horizontal bar</option>
+            </select>
+          </label>
+
+          <label>Top groups
+            <select id="nSel">
+              <option>8</option>
+              <option selected>12</option>
+              <option>25</option>
+              <option>50</option>
+            </select>
+          </label>
+        </div>
+        
+        <div class="chartbox"><canvas id="chart"></canvas></div>
+      </section>
+
+      <section class="grid2">
+        <div class="panel">
+          <h2 style="font-size:17px;margin-bottom:10px">Columns</h2>
+          <div class="cols" id="cols"></div>
+        </div>
+    
+        <div class="panel">
+          <div class="controls" style="margin-bottom:8px">
+            <label style="flex:1">Search rows
+              <input type="search" id="q" placeholder="Filter across all columns">
+            </label>
+          </div>
+
+          <div class="tablewrap" style="max-height:340px;overflow:auto">
+            <table>
+              <thead id="thead"></thead>
+              <tbody id="tbody"></tbody>
+            </table>
+          </div>
+
+          <div class="pager">
+            <span id="count"></span>
+            <button class="btn ghost" id="prev">Prev</button>
+            <button class="btn ghost" id="next">Next</button>
+          </div>
+          
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>

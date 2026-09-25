@@ -1,0 +1,6920 @@
+{
+ "pulled_at": "2026-09-25T17:51:32Z",
+ "statuses": [
+  "awaiting_shipment",
+  "on_hold"
+ ],
+ "order_count": 291,
+ "line_count": 987,
+ "lines": [
+  {
+   "order_number": "898277552",
+   "order_date": "2026-02-26",
+   "status": "awaiting_shipment",
+   "sku": "TP003",
+   "qty": 1
+  },
+  {
+   "order_number": "899461846",
+   "order_date": "2026-02-26",
+   "status": "awaiting_shipment",
+   "sku": "TP001",
+   "qty": 1
+  },
+  {
+   "order_number": "900032750",
+   "order_date": "2026-02-26",
+   "status": "awaiting_shipment",
+   "sku": "GS127",
+   "qty": 1
+  },
+  {
+   "order_number": "900239213",
+   "order_date": "2026-02-26",
+   "status": "awaiting_shipment",
+   "sku": "GS126",
+   "qty": 1
+  },
+  {
+   "order_number": "900336802",
+   "order_date": "2026-02-26",
+   "status": "awaiting_shipment",
+   "sku": "TP003",
+   "qty": 1
+  },
+  {
+   "order_number": "BB_BN_004",
+   "order_date": "2026-03-24",
+   "status": "awaiting_shipment",
+   "sku": "Peach Bellini Mimosa Mixer",
+   "qty": 12
+  },
+  {
+   "order_number": "BB_BN_004",
+   "order_date": "2026-03-24",
+   "status": "awaiting_shipment",
+   "sku": "TB004",
+   "qty": 18
+  },
+  {
+   "order_number": "WH010016",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS087",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010016",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010016",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010016",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010017",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010017",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010017",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010017",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS117",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010017",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "TB012",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010017",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "TB013",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "SM1005",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "SM1009",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "SM1024",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "TB047",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010025",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "TB059",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010030",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010030",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010030",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010030",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010030",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS119",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010030",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010032",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010032",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010035",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010038",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010038",
+   "order_date": "2026-06-09",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010041",
+   "order_date": "2026-06-10",
+   "status": "on_hold",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010041",
+   "order_date": "2026-06-10",
+   "status": "on_hold",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010041",
+   "order_date": "2026-06-10",
+   "status": "on_hold",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010041",
+   "order_date": "2026-06-10",
+   "status": "on_hold",
+   "sku": "GS128",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010041",
+   "order_date": "2026-06-10",
+   "status": "on_hold",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010041",
+   "order_date": "2026-06-10",
+   "status": "on_hold",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS095",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS096",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010042",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS071",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS095",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS096",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS119",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1001",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1002",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1003",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1004",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1005",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1006",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1008",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1009",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1012",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1013",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1016",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010046",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "SM1034",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS128",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "TB002",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "TB003",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "TB004",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "TB017",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "TB045",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010048",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "TB049",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010055",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010055",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010058",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010058",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010058",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010058",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010058",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS117",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "TB045",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010063",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "TB045",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS124",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS128",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 0
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010068",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010073",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010073",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010073",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010073",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010074",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010074",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010074",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010077",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010077",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010077",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS121",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010077",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS125",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010077",
+   "order_date": "2026-06-10",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "BA001-G",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "BA001-G",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS071",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS105",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS150",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS154",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS155",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "RE004",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "RE005",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "SB012",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "SB058",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "TA011-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "TA011-WH",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "TA017-G",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "TB009",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "TB012",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010080",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "TB058",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010083",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010087",
+   "order_date": "2026-06-11",
+   "status": "on_hold",
+   "sku": "TA020-GN",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010087",
+   "order_date": "2026-06-11",
+   "status": "on_hold",
+   "sku": "TA020-OR",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010087",
+   "order_date": "2026-06-11",
+   "status": "on_hold",
+   "sku": "TA020-RD",
+   "qty": 24
+  },
+  {
+   "order_number": "WH010095",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010095",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010095",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010095",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010097",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010097",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010098",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010098",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010098",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010098",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010098",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010098",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010098",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010100",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010100",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010100",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010100",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010100",
+   "order_date": "2026-06-11",
+   "status": "awaiting_shipment",
+   "sku": "SB005",
+   "qty": 2
+  },
+  {
+   "order_number": "100431",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010101",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010101",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS105",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010101",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "BA001-G",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS128",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE004",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE005",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SB016",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SB034",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010102",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TA017-G",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010104",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010105",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010105",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "BA001-G",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS069",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS071",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS082",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS083",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS092-WH",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS096",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS102",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS105",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS124",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS142",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS151-SV",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS154",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS155",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE004",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE005",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SB005",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SB006",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SM1009",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TA017-G",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TB005",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TB006",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TB009",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010107",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TB056",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "BA001-G",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "BA001-G",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS071",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS124",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS126",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE001-PK",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE001-RT",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE003",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE004",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "RE005",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SB012",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SB012",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SB012",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SB056",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010109",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TA017-G",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010112",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010112",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS124",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010112",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010112",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS126",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010112",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010112",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010114",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 18
+  },
+  {
+   "order_number": "WH010114",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010114",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010114",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SM1001",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SM1002",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SM1003",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SM1004",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "SM1024",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TB017",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TB045",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010117",
+   "order_date": "2026-06-12",
+   "status": "awaiting_shipment",
+   "sku": "TB047",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010118",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS102",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010118",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010118",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS107",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010118",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010118",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "BPA011",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "BPA019",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "SM005-S",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "SM006-S",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "SM007-S",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "SM010-S",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "SM034-S",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010169",
+   "order_date": "2026-06-13",
+   "status": "awaiting_shipment",
+   "sku": "SM058-S",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010177",
+   "order_date": "2026-06-16",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010202",
+   "order_date": "2026-06-29",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010202",
+   "order_date": "2026-06-29",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 18
+  },
+  {
+   "order_number": "9FQ9DSKPWJ",
+   "order_date": "2026-06-30",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 246
+  },
+  {
+   "order_number": "GGYJJDHT3E",
+   "order_date": "2026-07-06",
+   "status": "awaiting_shipment",
+   "sku": "TA005-CR",
+   "qty": 12
+  },
+  {
+   "order_number": "DZMR365H28",
+   "order_date": "2026-07-07",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "DZMR365H28",
+   "order_date": "2026-07-07",
+   "status": "awaiting_shipment",
+   "sku": "TB009",
+   "qty": 6
+  },
+  {
+   "order_number": "DZMR365H28",
+   "order_date": "2026-07-07",
+   "status": "awaiting_shipment",
+   "sku": "TB016",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010213",
+   "order_date": "2026-07-09",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010213",
+   "order_date": "2026-07-09",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010213",
+   "order_date": "2026-07-09",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010213",
+   "order_date": "2026-07-09",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "2C4NTZYR8F",
+   "order_date": "2026-07-11",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "XPSPRMAJYK",
+   "order_date": "2026-07-13",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "5RG5U75G2S",
+   "order_date": "2026-07-19",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "5RG5U75G2S",
+   "order_date": "2026-07-19",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "5RG5U75G2S",
+   "order_date": "2026-07-19",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "A5UG3MVRCM",
+   "order_date": "2026-07-19",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "A5UG3MVRCM",
+   "order_date": "2026-07-19",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 12
+  },
+  {
+   "order_number": "VRRUVX2NNP",
+   "order_date": "2026-07-19",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 12
+  },
+  {
+   "order_number": "AH2AJJAMFA",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "TA020-OR",
+   "qty": 18
+  },
+  {
+   "order_number": "AH2AJJAMFA",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "TA020-RD",
+   "qty": 12
+  },
+  {
+   "order_number": "H3YT5CM2QA",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "H3YT5CM2QA",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS127",
+   "qty": 6
+  },
+  {
+   "order_number": "H3YT5CM2QA",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "KVTKUCG7SU",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS078",
+   "qty": 120
+  },
+  {
+   "order_number": "TETFGY2YRQ",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "W83RCYP5TD",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 12
+  },
+  {
+   "order_number": "W83RCYP5TD",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS121",
+   "qty": 30
+  },
+  {
+   "order_number": "W83RCYP5TD",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS127",
+   "qty": 12
+  },
+  {
+   "order_number": "W83RCYP5TD",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS128",
+   "qty": 12
+  },
+  {
+   "order_number": "W83RCYP5TD",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 12
+  },
+  {
+   "order_number": "W83RCYP5TD",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "W83RCYP5TD",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "YTECT7WDYQ",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "YTECT7WDYQ",
+   "order_date": "2026-07-20",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "35UHBBPQCN",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "35UHBBPQCN",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "35UHBBPQCN",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "35UHBBPQCN",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "58MG9JBMYP",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS128",
+   "qty": 168
+  },
+  {
+   "order_number": "58MG9JBMYP",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 168
+  },
+  {
+   "order_number": "AS5MBKAHM4",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "KCUXT38W9U",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "KCUXT38W9U",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "KCUXT38W9U",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 6
+  },
+  {
+   "order_number": "KCUXT38W9U",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "SA765TGRP5",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 42
+  },
+  {
+   "order_number": "SA765TGRP5",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 12
+  },
+  {
+   "order_number": "SA765TGRP5",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 12
+  },
+  {
+   "order_number": "YW7TUNK7JU",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "YW7TUNK7JU",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 6
+  },
+  {
+   "order_number": "YW7TUNK7JU",
+   "order_date": "2026-07-21",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "2CZ9NSJ4PN",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 12
+  },
+  {
+   "order_number": "9Y3FRDHZ3T",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS102",
+   "qty": 12
+  },
+  {
+   "order_number": "9Y3FRDHZ3T",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "TB012",
+   "qty": 12
+  },
+  {
+   "order_number": "9Y3FRDHZ3T",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "TB016",
+   "qty": 12
+  },
+  {
+   "order_number": "9Y3FRDHZ3T",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "TB034",
+   "qty": 12
+  },
+  {
+   "order_number": "9Y3FRDHZ3T",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "TB058",
+   "qty": 12
+  },
+  {
+   "order_number": "AYED3YWAEV",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "AYED3YWAEV",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "FPY762VU93",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS102",
+   "qty": 18
+  },
+  {
+   "order_number": "FPY762VU93",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 18
+  },
+  {
+   "order_number": "MWRT3C2UZD",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "MWRT3C2UZD",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WCZYBYAVKF",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010231",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS095",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010231",
+   "order_date": "2026-07-22",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "8HPDTCQMV7",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "DCVB5CN7RE",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 24
+  },
+  {
+   "order_number": "EGGSFYHWFF",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "EGGSFYHWFF",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS121",
+   "qty": 6
+  },
+  {
+   "order_number": "G3YWH7B4R2",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "G3YWH7B4R2",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS124",
+   "qty": 6
+  },
+  {
+   "order_number": "G3YWH7B4R2",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "G3YWH7B4R2",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "HDYUFGHBKX",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "HDYUFGHBKX",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "HDYUFGHBKX",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "HDYUFGHBKX",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 6
+  },
+  {
+   "order_number": "HDYUFGHBKX",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "HDYUFGHBKX",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "HK8PCG6SKF",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS102",
+   "qty": 24
+  },
+  {
+   "order_number": "HK8PCG6SKF",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 24
+  },
+  {
+   "order_number": "HK8PCG6SKF",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS105",
+   "qty": 24
+  },
+  {
+   "order_number": "Q3WBEMC7H7",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "Q3WBEMC7H7",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS124",
+   "qty": 6
+  },
+  {
+   "order_number": "Q3WBEMC7H7",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "Q4NAY5DRYK",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS071",
+   "qty": 6
+  },
+  {
+   "order_number": "Q4NAY5DRYK",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "Q4NAY5DRYK",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "Q4NAY5DRYK",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "SM004",
+   "qty": 12
+  },
+  {
+   "order_number": "Q4NAY5DRYK",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "SM034",
+   "qty": 12
+  },
+  {
+   "order_number": "Q4NAY5DRYK",
+   "order_date": "2026-07-23",
+   "status": "awaiting_shipment",
+   "sku": "TA017",
+   "qty": 12
+  },
+  {
+   "order_number": "ZSQESZFWJ7",
+   "order_date": "2026-07-25",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "ZSQESZFWJ7",
+   "order_date": "2026-07-25",
+   "status": "awaiting_shipment",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "896HT4MQJ8",
+   "order_date": "2026-07-28",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010237",
+   "order_date": "2026-07-29",
+   "status": "awaiting_shipment",
+   "sku": "GS096",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010237",
+   "order_date": "2026-07-29",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010237",
+   "order_date": "2026-07-29",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "H5XZ73QA8D",
+   "order_date": "2026-07-30",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "H5XZ73QA8D",
+   "order_date": "2026-07-30",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "H5XZ73QA8D",
+   "order_date": "2026-07-30",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "36QCX46NMF",
+   "order_date": "2026-08-04",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "36QCX46NMF",
+   "order_date": "2026-08-04",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "ZK8SVAMW6P",
+   "order_date": "2026-08-04",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010246",
+   "order_date": "2026-08-06",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010246",
+   "order_date": "2026-08-06",
+   "status": "awaiting_shipment",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010246",
+   "order_date": "2026-08-06",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010246",
+   "order_date": "2026-08-06",
+   "status": "awaiting_shipment",
+   "sku": "SB013",
+   "qty": 1
+  },
+  {
+   "order_number": "66CM96YKCB",
+   "order_date": "2026-08-07",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 12
+  },
+  {
+   "order_number": "66CM96YKCB",
+   "order_date": "2026-08-07",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "66CM96YKCB",
+   "order_date": "2026-08-07",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "SYQKHUE6NS",
+   "order_date": "2026-08-07",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "SYQKHUE6NS",
+   "order_date": "2026-08-07",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 12
+  },
+  {
+   "order_number": "SYQKHUE6NS",
+   "order_date": "2026-08-07",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "XZAKQNQ2DX",
+   "order_date": "2026-08-07",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "49QW6ZSV99",
+   "order_date": "2026-08-12",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "49QW6ZSV99",
+   "order_date": "2026-08-12",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "49QW6ZSV99",
+   "order_date": "2026-08-12",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "5BXVXDV2HR",
+   "order_date": "2026-08-12",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "3EMGSWD3AD",
+   "order_date": "2026-08-14",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "MO-PS0001",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0001",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0002",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0002",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0003",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0003",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0004",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0004",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0005",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0005",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0006",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0006",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0007",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0007",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0008",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0008",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0009",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0009",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0010",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0010",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0011",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0011",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0012",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0012",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0013",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0013",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0014",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0014",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0015",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0015",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0016",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0016",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0017",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0017",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0018",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0018",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0019",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0019",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0020",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0020",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0021",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0021",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0022",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0022",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0023",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0023",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0024",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0024",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0025",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0025",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0026",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0026",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0027",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0027",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0028",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0028",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0029",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0029",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0030",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0030",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0031",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0031",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0032",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0032",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0033",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0033",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0034",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0034",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0035",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0035",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0036",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0036",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0037",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0037",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0038",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0038",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0039",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0039",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0040",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0040",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0041",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0041",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0042",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0042",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0043",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0043",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0044",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0044",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0045",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0045",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0046",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0046",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0047",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0047",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0048",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0048",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0049",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0049",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0050",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0050",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0051",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0051",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0052",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0052",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0053",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0053",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0054",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0054",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0055",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0055",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0056",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0056",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0057",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0057",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0058",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0058",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0059",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0059",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0060",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0060",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0061",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0061",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0062",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0062",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0063",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0063",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0064",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0064",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0065",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0065",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0066",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0066",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0067",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0067",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0068",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0068",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0069",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0069",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0070",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0070",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0071",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0071",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0072",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0072",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0073",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0073",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0074",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0074",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0075",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0075",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0076",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0076",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0077",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0077",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0078",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0078",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0079",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0079",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0080",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0080",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0081",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0081",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0082",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0082",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0083",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0083",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0084",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0084",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0085",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0085",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0086",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0086",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0087",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0087",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0088",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0088",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0089",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0089",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0090",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0090",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0091",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0091",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0092",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0092",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0093",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0093",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0094",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0094",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0095",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0095",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0096",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0096",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0097",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0097",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0098",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0098",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0099",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0099",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0100",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0100",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0101",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0101",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0102",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0102",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0103",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "MO-PS0103",
+   "order_date": "2026-08-17",
+   "status": "awaiting_shipment",
+   "sku": "C6-GS104",
+   "qty": 1
+  },
+  {
+   "order_number": "2NUPYXJT2J",
+   "order_date": "2026-08-18",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "2NUPYXJT2J",
+   "order_date": "2026-08-18",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "2NUPYXJT2J",
+   "order_date": "2026-08-18",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "7C78G9KUZQ",
+   "order_date": "2026-08-18",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "7C78G9KUZQ",
+   "order_date": "2026-08-18",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "7C78G9KUZQ",
+   "order_date": "2026-08-18",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "7C78G9KUZQ",
+   "order_date": "2026-08-18",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "D22SSHXSQQ",
+   "order_date": "2026-08-18",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "D9J9DX7UPB",
+   "order_date": "2026-08-19",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "B3PURE5JZS",
+   "order_date": "2026-08-20",
+   "status": "awaiting_shipment",
+   "sku": "GS128",
+   "qty": 6
+  },
+  {
+   "order_number": "B3PURE5JZS",
+   "order_date": "2026-08-20",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "EXECK5BE5R",
+   "order_date": "2026-08-20",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "EXECK5BE5R",
+   "order_date": "2026-08-20",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "EXECK5BE5R",
+   "order_date": "2026-08-20",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "G5FXGV4ZXY",
+   "order_date": "2026-08-21",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "B9PGDUNXYQ",
+   "order_date": "2026-08-22",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "B9PGDUNXYQ",
+   "order_date": "2026-08-22",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "B9PGDUNXYQ",
+   "order_date": "2026-08-22",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "E9YJH6Y4BR",
+   "order_date": "2026-08-22",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "E9YJH6Y4BR",
+   "order_date": "2026-08-22",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "E9YJH6Y4BR",
+   "order_date": "2026-08-22",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "E9YJH6Y4BR",
+   "order_date": "2026-08-22",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "P6565PASQG",
+   "order_date": "2026-08-22",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "BB8Y4XE34S",
+   "order_date": "2026-08-24",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "BB8Y4XE34S",
+   "order_date": "2026-08-24",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "EE8PSHT3B8",
+   "order_date": "2026-08-26",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WDEGF4ZJRH",
+   "order_date": "2026-08-26",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "WDEGF4ZJRH",
+   "order_date": "2026-08-26",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "P79MVUYYM5",
+   "order_date": "2026-08-30",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "P79MVUYYM5",
+   "order_date": "2026-08-30",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "P79MVUYYM5",
+   "order_date": "2026-08-30",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "P79MVUYYM5",
+   "order_date": "2026-08-30",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "88U8MXUSAM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "88U8MXUSAM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "88U8MXUSAM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "TBD32Q3PXM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "TBD32Q3PXM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "TBD32Q3PXM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "TBD32Q3PXM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "TBD32Q3PXM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "TBD32Q3PXM",
+   "order_date": "2026-08-31",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010262",
+   "order_date": "2026-09-01",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010262",
+   "order_date": "2026-09-01",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010262",
+   "order_date": "2026-09-01",
+   "status": "awaiting_shipment",
+   "sku": "GS121",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010262",
+   "order_date": "2026-09-01",
+   "status": "awaiting_shipment",
+   "sku": "GS121",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010262",
+   "order_date": "2026-09-01",
+   "status": "awaiting_shipment",
+   "sku": "GS124",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010262",
+   "order_date": "2026-09-01",
+   "status": "awaiting_shipment",
+   "sku": "GS130",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010262",
+   "order_date": "2026-09-01",
+   "status": "awaiting_shipment",
+   "sku": "GS137",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010263",
+   "order_date": "2026-09-01",
+   "status": "awaiting_shipment",
+   "sku": "",
+   "qty": 70
+  },
+  {
+   "order_number": "4Q4EAVCC4B",
+   "order_date": "2026-09-02",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "4Q4EAVCC4B",
+   "order_date": "2026-09-02",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "4Q4EAVCC4B",
+   "order_date": "2026-09-02",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "4Q4EAVCC4B",
+   "order_date": "2026-09-02",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "4QA2WCMZXK",
+   "order_date": "2026-09-02",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "C97Y8PMBE7",
+   "order_date": "2026-09-04",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "E6HECGADBJ",
+   "order_date": "2026-09-05",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 12
+  },
+  {
+   "order_number": "E6HECGADBJ",
+   "order_date": "2026-09-05",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 12
+  },
+  {
+   "order_number": "E6HECGADBJ",
+   "order_date": "2026-09-05",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 12
+  },
+  {
+   "order_number": "Q9JX6M2T7W",
+   "order_date": "2026-09-05",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "Q9JX6M2T7W",
+   "order_date": "2026-09-05",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "XH99UETB7B",
+   "order_date": "2026-09-08",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "XH99UETB7B",
+   "order_date": "2026-09-08",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010267",
+   "order_date": "2026-09-09",
+   "status": "awaiting_shipment",
+   "sku": "TB045",
+   "qty": 6
+  },
+  {
+   "order_number": "HG7F82MVG3",
+   "order_date": "2026-09-10",
+   "status": "awaiting_shipment",
+   "sku": "BA024",
+   "qty": 18
+  },
+  {
+   "order_number": "5NNMK376W7",
+   "order_date": "2026-09-11",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 12
+  },
+  {
+   "order_number": "5NNMK376W7",
+   "order_date": "2026-09-11",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 12
+  },
+  {
+   "order_number": "M3F4EKW7M5",
+   "order_date": "2026-09-11",
+   "status": "awaiting_shipment",
+   "sku": "GS114",
+   "qty": 12
+  },
+  {
+   "order_number": "M3F4EKW7M5",
+   "order_date": "2026-09-11",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 12
+  },
+  {
+   "order_number": "M3F4EKW7M5",
+   "order_date": "2026-09-11",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 12
+  },
+  {
+   "order_number": "DBHHSGPZXV",
+   "order_date": "2026-09-12",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "DBHHSGPZXV",
+   "order_date": "2026-09-12",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "PQZ72EEZ39",
+   "order_date": "2026-09-12",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "PQZ72EEZ39",
+   "order_date": "2026-09-12",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "PQZ72EEZ39",
+   "order_date": "2026-09-12",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "GSU3NVY3KS",
+   "order_date": "2026-09-13",
+   "status": "awaiting_shipment",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "GSU3NVY3KS",
+   "order_date": "2026-09-13",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "GSU3NVY3KS",
+   "order_date": "2026-09-13",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "76T5XYRCCP",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "76T5XYRCCP",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "76T5XYRCCP",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "76T5XYRCCP",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "DYKCM3JGJS",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "DYKCM3JGJS",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "YWRCC34ZJJ",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS069",
+   "qty": 6
+  },
+  {
+   "order_number": "YWRCC34ZJJ",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS096",
+   "qty": 6
+  },
+  {
+   "order_number": "YWRCC34ZJJ",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "YWRCC34ZJJ",
+   "order_date": "2026-09-14",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "5AEHVVWAGQ",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS005-1",
+   "qty": 6
+  },
+  {
+   "order_number": "5AEHVVWAGQ",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS037-WH",
+   "qty": 6
+  },
+  {
+   "order_number": "5AEHVVWAGQ",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS068",
+   "qty": 6
+  },
+  {
+   "order_number": "5AEHVVWAGQ",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS071",
+   "qty": 6
+  },
+  {
+   "order_number": "5AEHVVWAGQ",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
+   "order_number": "U36S7F25T9",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "U36S7F25T9",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "U36S7F25T9",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 12
+  },
+  {
+   "order_number": "U36S7F25T9",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "XBESZJJF25",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS071",
+   "qty": 6
+  },
+  {
+   "order_number": "XBESZJJF25",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS105",
+   "qty": 6
+  },
+  {
+   "order_number": "XBESZJJF25",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 6
+  },
+  {
+   "order_number": "XBESZJJF25",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "SJ002",
+   "qty": 6
+  },
+  {
+   "order_number": "XBESZJJF25",
+   "order_date": "2026-09-15",
+   "status": "awaiting_shipment",
+   "sku": "SJ003",
+   "qty": 6
+  },
+  {
+   "order_number": "MT749MMVMX",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-502",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-502",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-502",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-502",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-502",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-502",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-517",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-517",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-517",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-517",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-517",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-526",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-526",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-526",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-526",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-526",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-526",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-526",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-543",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-553",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-553",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-553",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-553",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-553",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-553",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-553",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-560",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-561",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-562",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-562",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-562",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-562",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-562",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-562",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-562",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-562",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-563",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-563",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-563",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-563",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-563",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-563",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-563",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-563",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-564",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-564",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-564",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-564",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-564",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-564",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-564",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-565",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-565",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-565",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-565",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-565",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-565",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-565",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-565",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-566",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-566",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-566",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-566",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-566",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-566",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-566",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-674",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-675",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-675",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-675",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-675",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-675",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-675",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-675",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-678",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-678",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-678",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-678",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-678",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-678",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-678",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-679",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-685",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-688",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-696",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-696",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-696",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-696",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-696",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-696",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-696",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS090",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-921",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-927",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS037-PK",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-927",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-927",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-927",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS111",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-927",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-927",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS123",
+   "qty": 6
+  },
+  {
+   "order_number": "PO3007-927",
+   "order_date": "2026-09-17",
+   "status": "awaiting_shipment",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "7BVEYM239C",
+   "order_date": "2026-09-18",
+   "status": "awaiting_shipment",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "TC8YKNJW34",
+   "order_date": "2026-09-18",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "TC8YKNJW34",
+   "order_date": "2026-09-18",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "XESUMU72WH",
+   "order_date": "2026-09-18",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 12
+  },
+  {
+   "order_number": "XESUMU72WH",
+   "order_date": "2026-09-18",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "BJMY2JH5DB",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS095",
+   "qty": 6
+  },
+  {
+   "order_number": "BJMY2JH5DB",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "BJMY2JH5DB",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "BJMY2JH5DB",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "BJMY2JH5DB",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
+   "order_number": "KQVTRR2KF8",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "TB004",
+   "qty": 6
+  },
+  {
+   "order_number": "KQVTRR2KF8",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "TB045",
+   "qty": 6
+  },
+  {
+   "order_number": "KQVTRR2KF8",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "TB047",
+   "qty": 6
+  },
+  {
+   "order_number": "UR9FZ47SSE",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS114",
+   "qty": 12
+  },
+  {
+   "order_number": "UR9FZ47SSE",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010274",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS087",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010274",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010274",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS117",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010274",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010275",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS097",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010275",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS100",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010275",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010275",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010275",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "SB005",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010275",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "SB006",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010275",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "SM005-BL",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010275",
+   "order_date": "2026-09-21",
+   "status": "awaiting_shipment",
+   "sku": "TB058",
+   "qty": 6
+  },
+  {
+   "order_number": "242VRXZMHU",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 18
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "BA001-G",
+   "qty": 4
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "BA002-G",
+   "qty": 6
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "BA003-G",
+   "qty": 6
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS117",
+   "qty": 6
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS119",
+   "qty": 6
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS149",
+   "qty": 6
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SB001",
+   "qty": 1
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SB010",
+   "qty": 1
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SB013",
+   "qty": 1
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SB016",
+   "qty": 1
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "TA005-CR",
+   "qty": 6
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "TA011-WH",
+   "qty": 6
+  },
+  {
+   "order_number": "M6MHPTBBRD",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "TA017",
+   "qty": 12
+  },
+  {
+   "order_number": "SMFBSPXZ5B",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS174",
+   "qty": 6
+  },
+  {
+   "order_number": "UU9CB8SQAC",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SB003",
+   "qty": 1
+  },
+  {
+   "order_number": "UU9CB8SQAC",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SB012",
+   "qty": 1
+  },
+  {
+   "order_number": "UU9CB8SQAC",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "TB003",
+   "qty": 6
+  },
+  {
+   "order_number": "UU9CB8SQAC",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "TB012",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS068",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS155",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SS001",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SS004",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SS005",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SS011",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SS012",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010276",
+   "order_date": "2026-09-22",
+   "status": "awaiting_shipment",
+   "sku": "SS013",
+   "qty": 6
+  },
+  {
+   "order_number": "BN94WWQ3KS",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "BN94WWQ3KS",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "BS2WYSPBT6",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "GS116",
+   "qty": 12
+  },
+  {
+   "order_number": "BS2WYSPBT6",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "GS121",
+   "qty": 12
+  },
+  {
+   "order_number": "BS2WYSPBT6",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "BS2WYSPBT6",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "GS173",
+   "qty": 12
+  },
+  {
+   "order_number": "BS2WYSPBT6",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "TB034",
+   "qty": 18
+  },
+  {
+   "order_number": "FAUMAXHMWP",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "SM018",
+   "qty": 12
+  },
+  {
+   "order_number": "PNQ3NQXDDC",
+   "order_date": "2026-09-23",
+   "status": "awaiting_shipment",
+   "sku": "GS003-1",
+   "qty": 120
+  },
+  {
+   "order_number": "8EAB2BK5JH",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 24
+  },
+  {
+   "order_number": "9XZZTQR874",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 150
+  },
+  {
+   "order_number": "EF9YRMFFV8",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "TB059",
+   "qty": 6
+  },
+  {
+   "order_number": "EM2NS7EJUR",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "EM2NS7EJUR",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS102",
+   "qty": 6
+  },
+  {
+   "order_number": "EM2NS7EJUR",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
+   "order_number": "EM2NS7EJUR",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "SB006",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37019",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS147",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37019",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "SM002",
+   "qty": 3
+  },
+  {
+   "order_number": "OR37020",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "TB004",
+   "qty": 2
+  },
+  {
+   "order_number": "OR37021",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "BA001-G",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37021",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS096",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37021",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS148",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37021",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "TB012",
+   "qty": 2
+  },
+  {
+   "order_number": "OR37021",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "TB058",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37022",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS149",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37022",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "SM099-GC",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37022",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "SM107-PC",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37022",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "SM116-GC",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37022",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "TB004",
+   "qty": 4
+  },
+  {
+   "order_number": "OR37023",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS148",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37024",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS146",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37024",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS147",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37024",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS149",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37024",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "TB004",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010279",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS102",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010279",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS103",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010279",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS104",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010279",
+   "order_date": "2026-09-24",
+   "status": "awaiting_shipment",
+   "sku": "GS105",
+   "qty": 12
+  },
+  {
+   "order_number": "44P2SJ8JVP",
+   "order_date": "2026-09-25",
+   "status": "awaiting_shipment",
+   "sku": "GS122",
+   "qty": 6
+  },
+  {
+   "order_number": "44P2SJ8JVP",
+   "order_date": "2026-09-25",
+   "status": "awaiting_shipment",
+   "sku": "GS124",
+   "qty": 6
+  },
+  {
+   "order_number": "44P2SJ8JVP",
+   "order_date": "2026-09-25",
+   "status": "awaiting_shipment",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "44P2SJ8JVP",
+   "order_date": "2026-09-25",
+   "status": "awaiting_shipment",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "OR37025",
+   "order_date": "2026-09-25",
+   "status": "awaiting_shipment",
+   "sku": "GS106",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37026",
+   "order_date": "2026-09-25",
+   "status": "awaiting_shipment",
+   "sku": "BA012",
+   "qty": 2
+  }
+ ]
+}

@@ -1,0 +1,278 @@
+:root {
+  /* Teaspressa brand palette (branding guidelines, p.34-36) */
+  --brand-white: #ffffff;
+  --brand-charcoal: #1b1a18;
+  --brand-cream: #eae5d9;
+  --brand-rust: #a35536;
+  --brand-mimosa: #f09a11;
+  --brand-mint: #c0c8ac;
+  --brand-forest: #2d463c;
+
+  --bg: #fbfbfb;       /* off-white page */
+  --panel: #ffffff;    /* white */
+  --ink: #1b1a18;      /* charcoal */
+  --mute: #66635d;     /* charcoal, softened */
+  --line: #e3ddd0;     /* cream, one step deeper */
+  --accent: #2d463c;   /* forest */
+  --accent-ink: #ffffff;
+  --chip: #f4f1eb;     /* cream at 50% */
+  --font-sans: "proxima-nova", system-ui, -apple-system, "Helvetica Neue", Arial, sans-serif;
+  --font-display: "Bricolage Grotesque", var(--font-sans);
+  color-scheme: light; /* always light, even when the device is in dark mode */
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-padding-top: env(safe-area-inset-top, 0px);
+}
+
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font: 400 15px/1.5 var(--font-sans);
+}
+
+h1, h2 {
+  font-family: var(--font-display);
+  margin: 0;
+}
+
+.wrap {
+  max-width: 1180px;
+  margin: 0 auto;
+  padding: 20px 16px 48px;
+}
+
+header {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+
+h1 {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.sub {
+  color: var(--mute);
+  font-size: 13px;
+}
+
+button, select, input {
+  font: inherit;
+  color: inherit;
+}
+
+.btn {
+  background: var(--accent);
+  color: var(--accent-ink);
+  border: 0;
+  border-radius: 8px;
+  padding: 9px 16px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.btn.ghost {
+  background: transparent;
+  color: var(--ink);
+  border: 1px solid var(--line);
+}
+
+button:focus-visible, select:focus-visible, input:focus-visible, .drop:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+}
+
+.drop {
+  border: 2px dashed var(--line);
+  border-radius: 14px;
+  padding: 56px 20px;
+  text-align: center;
+  cursor: pointer;
+  background: var(--panel);
+  transition: border-color .15s, background .15s;
+}
+
+.drop.over {
+  border-color: var(--accent);
+  background: var(--chip);
+}
+
+.drop h2 {
+  font-size: 22px;
+  margin-bottom: 6px;
+}
+
+.drop p {
+  color: var(--mute);
+  margin: 0 0 16px;
+}
+
+.row {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.err {
+  color: #c0392b;
+  margin-top: 12px;
+  min-height: 20px;
+}
+
+.kpis {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.kpi {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 14px 16px;
+}
+
+.kpi b {
+  display: block;
+  font: 700 24px var(--font-display);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.kpi span {
+  color: var(--mute);
+  font-size: 13px;
+}
+
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  padding: 16px;
+  margin-bottom: 16px;
+}
+
+.controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 14px;
+}
+
+.controls label {
+  display: flex;
+  flex-direction: column;
+  font-size: 12px;
+  color: var(--mute);
+  gap: 3px;
+}
+
+select, input[type=search] {
+  background: var(--bg);
+  border: 1px solid var(--line);
+  border-radius: 7px;
+  padding: 7px 9px;
+  min-width: 130px;
+}
+
+.chartbox {
+  position: relative;
+  height: 340px;
+}
+
+.grid2 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 16px;
+}
+
+@media(max-width: 860px) {
+  .grid2 {
+    grid-template-columns: 1fr;
+  }
+}
+
+.cols {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  max-height: 340px;
+  overflow: auto;
+}
+
+.col {
+  display: flex;
+  justify-content: space-between;
+  gap: 8px;
+  align-items: center;
+  padding: 6px 8px;
+  border-radius: 7px;
+  background: var(--chip);
+  font-size: 13px;
+}
+
+.col em {
+  font-style: normal;
+  color: var(--mute);
+  font-size: 12px;
+}
+
+.tablewrap {
+  overflow-x: auto;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 13px;
+}
+
+th, td {
+  text-align: left;
+  padding: 7px 10px;
+  border-bottom: 1px solid var(--line);
+  white-space: nowrap;
+  max-width: 260px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+th {
+  cursor: pointer;
+  user-select: none;
+  position: sticky;
+  top: 0;
+  background: var(--panel);
+}
+
+.pager {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-end;
+  margin-top: 10px;
+  color: var(--mute);
+  font-size: 13px;
+}
+
+[hidden] {
+  display: none !important;
+}

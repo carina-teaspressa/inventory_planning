@@ -1,0 +1,36 @@
+source,po_number,customer,sku,units,commit_date,commit_type,lead_weeks,status,replaces_shipstation,notes
+PO,0001724450,Sur La Table,GS128,1002,2026-09-07,Begin ship date,1,open,,Cancel date 09/11/2026; immediate production priority.
+PO,0007465720,Free People,GS175,56,2026-09-25,Ship date,1,open,,PO total units used as finished units; C6 vendor-style prefix is not multiplied again.
+PO,109069,HomeGoods,GS038,600,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,109069,HomeGoods,GS102,600,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,109069,HomeGoods,GS107,600,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,109069,HomeGoods,GT001,312,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,109070,HomeGoods,GS122,600,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,109070,HomeGoods,GS124,600,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,109070,HomeGoods,GS128,600,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,136190,HomeGoods,GS160,396,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,136190,HomeGoods,GS161,396,2026-09-28,Start ship date,1,open,,Consolidator cancel date 10/05/2026.
+PO,721861,UncommonGoods,GS037,30,2026-10-06,Expected delivery,2,open,,No ship date shown. Assigned to Sep 21-27 production to support 10/06 expected delivery; PO permits delivery up to five days early.
+PO,721861,UncommonGoods,GS038,300,2026-10-06,Expected delivery,2,open,,No ship date shown. Assigned to Sep 21-27 production to support 10/06 expected delivery; PO permits delivery up to five days early.
+PO,721861,UncommonGoods,GS071,294,2026-10-06,Expected delivery,2,open,,No ship date shown. Assigned to Sep 21-27 production to support 10/06 expected delivery; PO permits delivery up to five days early.
+PO,721861,UncommonGoods,GS078,1038,2026-10-06,Expected delivery,2,open,,No ship date shown. Assigned to Sep 21-27 production to support 10/06 expected delivery; PO permits delivery up to five days early.
+PO,721861,UncommonGoods,GS102,420,2026-10-06,Expected delivery,2,open,,No ship date shown. Assigned to Sep 21-27 production to support 10/06 expected delivery; PO permits delivery up to five days early.
+PO,721861,UncommonGoods,GS104,54,2026-10-06,Expected delivery,2,open,,No ship date shown. Assigned to Sep 21-27 production to support 10/06 expected delivery; PO permits delivery up to five days early.
+PO,721861,UncommonGoods,GS105,156,2026-10-06,Expected delivery,2,open,,No ship date shown. Assigned to Sep 21-27 production to support 10/06 expected delivery; PO permits delivery up to five days early.
+PO,109074,HomeGoods,GS122,300,2026-10-12,Start ship date,1,open,,Consolidator cancel date 10/26/2026.
+PO,109074,HomeGoods,GS124,300,2026-10-12,Start ship date,1,open,,Consolidator cancel date 10/26/2026.
+PO,109074,HomeGoods,GS128,300,2026-10-12,Start ship date,1,open,,Consolidator cancel date 10/26/2026.
+PO,109076,HomeGoods,GS038,312,2026-10-12,Start ship date,1,open,,Consolidator cancel date 10/26/2026.
+PO,109076,HomeGoods,GS102,312,2026-10-12,Start ship date,1,open,,Consolidator cancel date 10/26/2026.
+PO,109076,HomeGoods,GS107,312,2026-10-12,Start ship date,1,open,,Consolidator cancel date 10/26/2026.
+PO,136189,HomeGoods,GS160,396,2026-10-12,Start ship date,1,open,,Consolidator cancel date 10/19/2026.
+PO,136189,HomeGoods,GS161,396,2026-10-12,Start ship date,1,open,,Consolidator cancel date 10/19/2026.
+PO,109075,HomeGoods,GS038,312,2026-10-26,Start ship date,1,open,,Consolidator cancel date 11/02/2026.
+PO,109075,HomeGoods,GS102,312,2026-10-26,Start ship date,1,open,,Consolidator cancel date 11/02/2026.
+PO,109075,HomeGoods,GS107,312,2026-10-26,Start ship date,1,open,,Consolidator cancel date 11/02/2026.
+PO,109077,HomeGoods,GS122,396,2026-10-26,Start ship date,1,open,,Consolidator cancel date 11/02/2026.
+PO,109077,HomeGoods,GS124,396,2026-10-26,Start ship date,1,open,,Consolidator cancel date 11/02/2026.
+PO,109077,HomeGoods,GS128,396,2026-10-26,Start ship date,1,open,,Consolidator cancel date 11/02/2026.
+PO,0001734821,Sur La Table,TB003,600,2026-11-02,Begin ship date,1,open,,Cancel date 11/06/2026. Direct Tallboy units are not converted to mini component units.
+Allocation,PS Holiday Allocations 7.17.26,Paper Source,GS102,954,2026-10-11,Store arrival week,1,open,MO-PS,Case packs x6 already applied. Replaces MO-PS C6-GS102 ShipStation lines.
+Allocation,PS Holiday Allocations 7.17.26,Paper Source,GS104,696,2026-10-11,Store arrival week,1,open,MO-PS,Case packs x6 already applied. Replaces MO-PS C6-GS104 ShipStation lines.
