@@ -1,7 +1,7 @@
 const $ = id => document.getElementById(id);
 const FALLBACK = 'https://raw.githubusercontent.com/carina-teaspressa/inventory_planning/main/';
 const REF_FILES = ['data/csv/products.csv', 'data/csv/product_components.csv', 'data/csv/minis.csv', 'data/json/open_orders.json'];
-const OPTIONAL = ['data/csv/po_lines.csv', 'data/csv/inventory.csv'];   // a missing file just means "none yet"
+const OPTIONAL = ['data/csv/po_lines.csv', 'data/csv/inventory.csv', 'data/csv/sku_aliases.csv'];   // a missing file just means "none yet"
 const KEY = { orders: 'ip.orders', po: 'ip.po', inv: 'ip.inventory', log: 'ip.inventoryLog' };
 const S = { ref: null, minis: [], repo: {}, local: {}, log: [], inv: new Map(), result: null, src: '', pick: null };
 const esc = s => String(s ?? '').replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
@@ -41,9 +41,10 @@ async function load() {
     }
   }
   const [p, c, m, o] = data;
-  const [poText, invText] = await fetchFrom(base, OPTIONAL, true);
+  const [poText, invText, aliasText] = await fetchFrom(base, OPTIONAL, true);
   S.minis = PlanCore.parseCSV(m);
-  S.ref = PlanCore.build({ products: PlanCore.parseCSV(p), components: PlanCore.parseCSV(c), minis: S.minis });
+  S.ref = PlanCore.build({ products: PlanCore.parseCSV(p), components: PlanCore.parseCSV(c), minis: S.minis,
+                          aliases: aliasText ? PlanCore.parseCSV(aliasText) : [] });
   const po = poText ? PlanCore.readPO(poText) : { rows: [] };
   const inv = invText ? PlanCore.readInventory(invText) : { rows: [] };
   S.repo = {
@@ -296,6 +297,7 @@ function render() {
   if (shortKits) w.push(`<b>${n(shortKits)} of ${n(t.kitsOrdered)} kits</b> are missing some or all of their contents, so their tubes aren't fully counted. See the kits table.`);
   if (t.unmappedUnits) w.push(`<b>${n(t.unmappedUnits)} units</b> on order use SKUs the plan doesn't recognize yet.`);
   if (t.notCounted) w.push(`<b>${n(t.notCounted)} flavors</b> on order have no inventory count, so their full need shows as short.`);
+  if (D.renamed.lines) w.push(`${n(D.renamed.lines)} order lines (${n(D.renamed.units)} units) use an old SKU or a sample SKU and are counted as the current product.`);
   if (D.replaced.lines) w.push(`${n(D.replaced.lines)} ShipStation lines (${n(D.replaced.units)} units) are replaced by PO lines and not counted twice.`);
   $('warn').innerHTML = w.join('<br>'); $('warn').hidden = !w.length;
 
