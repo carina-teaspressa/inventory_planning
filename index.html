@@ -1,123 +1,152 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>CSV Dashboard</title>
-
-  <link rel="stylesheet" href="https://use.typekit.net/evl2kxt.css">
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&display=swap">
-  <link rel="stylesheet" href="css/style.css">
-
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
-
+  <title>Cube planning</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@500;700&family=Hanken+Grotesk:wght@400;500;600&display=swap">
+  <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
-  <div class="wrap">
-    <header>
-      <div>
-        <h1>CSV Dashboard</h1>
-        <div class="sub" id="fileinfo">Load a CSV to build a dashboard. Files stay in your browser.</div>
-      </div>
-      <div class="row" id="topbtns" hidden>
-        <button class="btn ghost" id="newBtn">Load another file</button>
-      </div>
-    </header>
+<a class="skip" href="#main">Skip to content</a>
+<div class="shell">
 
-    <div id="dropzone" class="drop" tabindex="0" role="button" aria-label="Upload a CSV file">
-      <h2>Drop a CSV here</h2>
-      <p>Columns, types and charts are detected automatically. Comma, semicolon and tab delimiters work.</p>
-      <div class="row">
-        <button class="btn" id="pickBtn">Choose file</button>
-        <button class="btn ghost" id="sampleBtn">Try sample data</button>
-      </div>
-      <div class="err" id="err" role="alert"></div>
-    </div>
-    <input type="file" id="file" accept=".csv,.tsv,.txt,text/csv" hidden>
+  <aside class="rail">
+    <div class="brand"><b>Teaspressa</b><span>Cube planning</span></div>
+    <nav id="nav" aria-label="Pages">
+      <a href="#plan" data-view="plan">Plan</a>
+      <a href="#kits" data-view="kits">Kits</a>
+      <a href="#inventory" data-view="inventory">Inventory</a>
+      <a href="#data" data-view="data">Data and rules <span class="badge" id="badge" hidden></span></a>
+    </nav>
+    <div class="fresh" id="fresh"></div>
+  </aside>
 
-    <main id="dash" hidden>
+  <main id="main">
+    <div class="err" id="err" role="alert" hidden></div>
 
-      <section class="kpis" id="kpis"></section>
+    <!-- PLAN -->
+    <section id="v-plan" data-page="plan" hidden>
+      <header class="head">
+        <h1>Plan</h1>
+        <p>Cubes to make for open orders and POs, one row per flavor.</p>
+      </header>
 
-      <section class="panel">
-
-        <div class="controls">
-          <label>Group by<select id="xSel"></select></label>
-
-          <label id="dateWrap" hidden>Date grouping
-            <select id="dateSel">
-              <option value="day">Day</option>
-              <option value="month" selected>Month</option>
-              <option value="year">Year</option>
-            </select>
-          </label>
-
-          <label>Measure<select id="mSel"></select></label>
-
-          <label>Aggregate
-            <select id="aSel">
-              <option value="sum">Sum</option>
-              <option value="avg">Average</option>
-              <option value="count">Count</option>
-              <option value="max">Max</option>
-              <option value="min">Min</option>
-            </select>
-          </label>
-
-          <label>Chart
-            <select id="tSel">
-              <option value="bar">Bar</option>
-              <option value="line">Line</option>
-              <option value="doughnut">Doughnut</option>
-              <option value="horizontal">Horizontal bar</option>
-            </select>
-          </label>
-
-          <label>Top groups
-            <select id="nSel">
-              <option>8</option>
-              <option selected>12</option>
-              <option>25</option>
-              <option>50</option>
-            </select>
-          </label>
+      <div class="toolbar">
+        <div class="seg" role="group" aria-label="View">
+          <button type="button" data-act="mode" data-mode="all" aria-pressed="true">All demand</button>
+          <button type="button" data-act="mode" data-mode="window" aria-pressed="false">By production window</button>
         </div>
-        
-        <div class="chartbox"><canvas id="chart"></canvas></div>
+        <div class="chips" role="group" aria-label="Product types" id="typeChips"></div>
+      </div>
+      <div class="toolbar">
+        <fieldset class="checks">
+          <legend>Count</legend>
+          <label><input type="checkbox" class="st" value="awaiting_shipment" checked> Awaiting shipment</label>
+          <label><input type="checkbox" class="st" value="on_hold" checked> On hold</label>
+          <label><input type="checkbox" id="incPO" checked> PO lines</label>
+        </fieldset>
+        <label class="search"><span>Find a flavor or SKU</span><input type="search" id="q" placeholder="Vanilla, 002, SM001-GC"></label>
+      </div>
+
+      <div id="notes"></div>
+      <div class="tally" id="tally" aria-live="polite"></div>
+
+      <section class="block">
+        <div class="block-h"><h2 id="planTitle">What to make</h2><p id="planNote"></p></div>
+        <div id="flavorTable" class="scroll"></div>
       </section>
 
-      <section class="grid2">
-        <div class="panel">
-          <h2 style="font-size:17px;margin-bottom:10px">Columns</h2>
-          <div class="cols" id="cols"></div>
-        </div>
-    
-        <div class="panel">
-          <div class="controls" style="margin-bottom:8px">
-            <label style="flex:1">Search rows
-              <input type="search" id="q" placeholder="Filter across all columns">
-            </label>
-          </div>
-
-          <div class="tablewrap" style="max-height:340px;overflow:auto">
-            <table>
-              <thead id="thead"></thead>
-              <tbody id="tbody"></tbody>
-            </table>
-          </div>
-
-          <div class="pager">
-            <span id="count"></span>
-            <button class="btn ghost" id="prev">Prev</button>
-            <button class="btn ghost" id="next">Next</button>
-          </div>
-          
-        </div>
+      <section class="block">
+        <div class="block-h"><h2>Mini tubes and labels</h2><p>Mini tubes only, including the tubes inside kits. Label codes (LM) live here and nowhere else.</p></div>
+        <div id="prepTable" class="scroll"></div>
       </section>
-    </main>
-  </div>
+    </section>
 
-  <script src="js/script.js"></script>
+    <!-- KITS -->
+    <section id="v-kits" data-page="kits" hidden>
+      <header class="head">
+        <h1>Kits</h1>
+        <p>Which kits to build, the Mini SKUs inside each one, and what's already built.</p>
+      </header>
+      <div class="toolbar">
+        <div class="seg" role="group" aria-label="Show kits">
+          <button type="button" data-act="kitfilter" data-f="all" aria-pressed="true">All kits</button>
+          <button type="button" data-act="kitfilter" data-f="build" aria-pressed="false">Needs building</button>
+          <button type="button" data-act="kitfilter" data-f="blocked" aria-pressed="false">Needs attention</button>
+        </div>
+        <label class="search"><span>Find a kit, Mini SKU, or flavor</span><input type="search" id="kitQ" placeholder="GS102, SM001-GC, vanilla"></label>
+      </div>
+      <div class="tally" id="kitTally"></div>
+      <div id="kitList"></div>
+      <section class="block">
+        <div class="block-h"><h2>Cubes to make and label for kits</h2><p>By flavor and label variant, after built kits and built Minis.</p></div>
+        <div id="kitCubes" class="scroll"></div>
+      </section>
+    </section>
+
+    <!-- INVENTORY -->
+    <section id="v-inventory" data-page="inventory" hidden>
+      <header class="head">
+        <h1>Inventory</h1>
+        <p>What's built and ready, and how many cubes you have to make more.</p>
+      </header>
+      <div class="note">Counts live in this browser until you download them and commit the CSVs to <code>data/csv</code>. The long-term inventory source is still open, so this page starts with counts you type or upload.</div>
+      <div class="toolbar">
+        <label class="search"><span>Find a SKU or flavor</span><input type="search" id="invQ" placeholder="SM001-GC, GS102, vanilla"></label>
+        <fieldset class="checks"><legend>Show</legend><label><input type="checkbox" id="invOnly" checked> Only what's on order</label></fieldset>
+        <div class="btns">
+          <button type="button" class="btn" data-act="upload" data-kind="built">Upload built counts</button>
+          <button type="button" class="btn" data-act="upload" data-kind="cubes">Upload cube counts</button>
+          <button type="button" class="btn" data-act="dl-inv" data-kind="built">Download built</button>
+          <button type="button" class="btn" data-act="dl-inv" data-kind="cubes">Download cubes</button>
+        </div>
+      </div>
+      <div class="err" id="invErr" role="alert" hidden></div>
+      <div id="invNotes"></div>
+      <div class="two">
+        <section class="block">
+          <div class="block-h"><h2>Built and ready</h2><p>Finished units. Type a count, or +6 and -6 to adjust.</p></div>
+          <div id="builtTable" class="scroll"></div>
+        </section>
+        <section class="block">
+          <div class="block-h"><h2>Cubes by flavor</h2><p>Made and loose. Shows what they could make.</p></div>
+          <div id="cubesTable" class="scroll"></div>
+        </section>
+      </div>
+      <section class="block">
+        <div class="block-h"><h2>Edits in this browser</h2></div>
+        <div id="invLog"></div>
+      </section>
+    </section>
+
+    <!-- DATA -->
+    <section id="v-data" data-page="data" hidden>
+      <header class="head">
+        <h1>Data and rules</h1>
+        <p>Where the numbers come from, and what to fix when something isn't counted.</p>
+      </header>
+      <section class="block"><div class="block-h"><h2>Needs attention</h2><p>Order lines the plan can't count, or counts on an assumption.</p></div><div id="attention"></div></section>
+      <section class="block"><div class="block-h"><h2>Sources</h2><p>Repo files load automatically. An upload or edit replaces a file in this browser only.</p></div><div id="sources" class="sources"></div></section>
+      <section class="block"><div class="block-h"><h2>Planning rules</h2><p>Decide which production window a ShipStation order lands in.</p></div><div id="rules"></div></section>
+      <section class="block"><div class="block-h"><h2>Products</h2><p>Flavor, cubes per unit, label code, and whether a SKU counts in the plan.</p></div>
+        <div class="toolbar"><label class="search"><span>Find a product</span><input type="search" id="prodQ" placeholder="SKU or name"></label></div>
+        <div id="products" class="scroll"></div></section>
+      <section class="block"><div class="block-h"><h2>Kit components</h2><p>The tubes inside each kit. The Mini SKU comes from the label code. Kit-only Minis aren't in products, and that's fine.</p></div>
+        <div class="toolbar"><label class="search"><span>Find a kit, tube, or Mini SKU</span><input type="search" id="compQ" placeholder="GS102, LM001-GC"></label></div>
+        <div id="components" class="scroll"></div></section>
+      <section class="block"><div class="block-h"><h2>Flavors</h2><p>Flavor code is the recipe. Name the ones that show only a number.</p></div>
+        <div class="toolbar"><label class="search"><span>Find a flavor</span><input type="search" id="flavQ" placeholder="Code or name"></label>
+          <fieldset class="checks"><legend>Show</legend><label><input type="checkbox" id="flavMissing" checked> Only flavors missing a name</label></fieldset></div>
+        <div id="flavors" class="scroll"></div></section>
+      <section class="block"><div class="block-h"><h2>SKU aliases</h2><p>Old or alternate SKUs that count as a current product.</p></div><div id="aliases" class="scroll"></div></section>
+    </section>
+  </main>
+</div>
+<input type="file" id="fileIn" accept=".csv,text/csv" hidden>
+<script src="js/core.js"></script>
+<script src="js/app.js"></script>
 </body>
 </html>
