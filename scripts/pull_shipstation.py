@@ -1,8 +1,11 @@
 """
 Pull open ShipStation orders into data/json/open_orders.json.
 
-Saves ONLY: order number, order date, status, and each line's SKU + quantity.
+Saves ONLY: order number, order date, status, the ShipStation store name, and each line's SKU + quantity.
 No customer names, addresses, emails, phone numbers or prices are written.
+
+The store name lets the planner tell Faire orders apart (they sit open in ShipStation because
+they are shipped from Faire). If the store lookup fails the pull still works, with no store name.
 
 Each run is a fresh snapshot: the file is replaced, so shipped or cancelled
 orders drop off automatically.
@@ -50,8 +53,20 @@ def get(path, params, auth, tries=5):
     sys.exit(f"Gave up after {tries} attempts: {path}")
 
 
+def store_names(auth):
+    """store id -> store name. Best effort: a failure here must never stop the order pull."""
+    try:
+        data = get("/stores", {"showInactive": "true"}, auth)
+        stores = data if isinstance(data, list) else data.get("stores", [])
+        return {str(s.get("storeId")): (s.get("storeName") or "").strip() for s in stores}
+    except (Exception, SystemExit) as e:  # noqa: BLE001  (get() exits on repeated failures; do not let that stop the order pull)
+        print(f"Store lookup skipped: {e}")
+        return {}
+
+
 def main():
     auth = auth_header()
+    stores = store_names(auth)
     lines, orders_seen = [], set()
     for status in STATUSES:
         page, pages = 1, 1
@@ -64,6 +79,7 @@ def main():
                 if oid in orders_seen:
                     continue
                 orders_seen.add(oid)
+                store = stores.get(str((o.get("advancedOptions") or {}).get("storeId")), "")
                 for it in o.get("items") or []:
                     if it.get("adjustment"):  # discount/adjustment lines, not products
                         continue
@@ -71,6 +87,7 @@ def main():
                         "order_number": str(o.get("orderNumber") or ""),
                         "order_date": (o.get("orderDate") or "")[:10],
                         "status": status,
+                        "store": store,
                         "sku": (it.get("sku") or "").strip(),
                         "qty": int(it.get("quantity") or 0),
                     })
