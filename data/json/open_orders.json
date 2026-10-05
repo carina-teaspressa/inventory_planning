@@ -1,11 +1,11 @@
 {
- "pulled_at": "2026-10-04T17:19:20Z",
+ "pulled_at": "2026-10-05T21:04:53Z",
  "statuses": [
   "awaiting_shipment",
   "on_hold"
  ],
- "order_count": 239,
- "line_count": 858,
+ "order_count": 240,
+ "line_count": 860,
  "lines": [
   {
    "order_number": "898277552",
@@ -6752,94 +6752,6 @@
    "qty": 6
   },
   {
-   "order_number": "OR37064",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TB049",
-   "qty": 2
-  },
-  {
-   "order_number": "OR37065",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS096",
-   "qty": 2
-  },
-  {
-   "order_number": "OR37065",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS103",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37065",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS105",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37065",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS106",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37065",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "SM017",
-   "qty": 3
-  },
-  {
-   "order_number": "OR37065",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "SM095-GC",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37066",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "SM099-GC",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37066",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "SM116-GC",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37066",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TB034",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37066",
-   "order_date": "2026-10-03",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TB047",
-   "qty": 1
-  },
-  {
    "order_number": "PUC7YPNK8X",
    "order_date": "2026-10-04",
    "status": "awaiting_shipment",
@@ -6870,6 +6782,110 @@
    "store": "Faire",
    "sku": "GS175",
    "qty": 6
+  },
+  {
+   "order_number": "5FVEPGKNKT",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS103",
+   "qty": 12
+  },
+  {
+   "order_number": "5FVEPGKNKT",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS104",
+   "qty": 12
+  },
+  {
+   "order_number": "9HSDG8NFSH",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS098",
+   "qty": 6
+  },
+  {
+   "order_number": "9HSDG8NFSH",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
+   "order_number": "9HSDG8NFSH",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "TB009",
+   "qty": 6
+  },
+  {
+   "order_number": "9HSDG8NFSH",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "TB034",
+   "qty": 6
+  },
+  {
+   "order_number": "9HSDG8NFSH",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "TB045",
+   "qty": 6
+  },
+  {
+   "order_number": "OR37069",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM004",
+   "qty": 10
+  },
+  {
+   "order_number": "OR37069",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM007",
+   "qty": 10
+  },
+  {
+   "order_number": "OR37069",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM010",
+   "qty": 10
+  },
+  {
+   "order_number": "OR37069",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM012",
+   "qty": 10
+  },
+  {
+   "order_number": "OR37069",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM095-GC",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37070",
+   "order_date": "2026-10-05",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM002",
+   "qty": 1
   }
  ]
 }
