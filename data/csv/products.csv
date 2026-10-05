@@ -1,243 +1,253 @@
-sku,product_name,product_type,flavor_code,flavor_name,flavor_category,label_code,cap_color,cubes_per_unit,case_sku,case_qty,include_in_plan,active,notes,recipe_code
-SM001-GC,Rose,Mini,001,Rose,GC,LM001-GC,Rust,6,C12-SM001-GC,12,Y,Y,,
-SM002-GC,Vanilla,Mini,002,Vanilla,GC,LM002-GC,Rust,6,C12-SM002-GC,12,Y,Y,,
-SM004-GC,Salted Caramel,Mini,004,Salted Caramel,GC,LM004-GC,Rust,6,C12-SM004-GC,12,Y,Y,,
-SM006-BL,Peach Bellini,Mini,006,Peach Bellini,BL,LM006-BL,Cream,6,C12-SM006-BL,12,Y,Y,,
-SM007-BL,Raspberry Bellini,Mini,007,Raspberry Bellini,BL,LM007-BL,Cream,6,C12-SM007-BL,12,Y,Y,,
-SM008-PM,Shimmer Grapefruit,Mini,008,Shimmer Grapefruit,PM,LM008-PM,Cream,6,C12-SM008-PM,12,Y,Y,,
-SM009-PM,Arcadia Orange,Mini,009,Arcadia Orange,PM,LM009-PM,Cream,6,C12-SM009-PM,12,Y,Y,,
-SM010-PM,Shimmer Lemon,Mini,010,Shimmer Lemon,PM,LM010-PM,Cream,6,C12-SM010-PM,12,Y,Y,,
-SM011-PC,Moscow Mule,Mini,011,Moscow Mule,PC,LM011-PC,Green,6,C12-SM011-PC,12,Y,Y,,
-SM012-PC,Old Fashioned,Mini,012,Old Fashioned,PC,LM012-PC,Green,6,C12-SM012-PC,12,Y,Y,,
-SM013-PC,Manhattan,Mini,013,Manhattan,PC,LM013-PC,Green,6,C12-SM013-PC,12,Y,Y,,
-SM016-PC,Shimmer Cosmo,Mini,016,Shimmer Cosmo,PC,LM016-PC,Green,6,C12-SM016-PC,12,Y,Y,,
-SM023-GC,White Chocolate Mocha,Mini,023,White Chocolate Mocha,GC,LM023-GC,Rust,6,C12-SM023-GC,12,Y,Y,,
-SM024-GC,Classic Cocoa,Mini,024,Classic Cocoa,GC,LM024-GC,Rust,6,C12-SM024-GC,12,Y,Y,,
-SM034-PC,Espresso Martini,Mini,034,Espresso Martini,PC,LM034-PC,Green,6,C12-SM034-PC,12,Y,Y,,
-SM049-GC,Cinnamon Hazelnut,Mini,049,Cinnamon Hazelnut,GC,LM049-GC,Rust,6,C12-SM049-GC,12,Y,Y,,
-SM058-PC,Shimmer Lemon Drop,Mini,058,Shimmer Lemon Drop,PC,LM058-PC,Green,6,C12-SM058-PC,12,Y,Y,,
-SM119-PC,Kentucky Mule,Mini,119,Kentucky Mule,PC,LM119-PC,Green,6,C12-SM119-PC,12,Y,Y,,
-GS102,Champagne Bellini Cocktail Mixer Kit,Kit,,,,,,18,C6-GS102,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)",
-GS103,Bourbon Cocktail Mixer Kit,Kit,,,,,,18,C6-GS103,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)",
-GS104,Martini Classics Cocktail Mixer Kit,Kit,,,,,,18,C6-GS104,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)",
-GS105,Champagne Mimosa Cocktail Mixer Kit,Kit,,,,,,18,C6-GS105,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)",
-GS106,Coffee Classics Cafe Mixer Kit,Kit,,,,,,18,C6-GS106,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)",
-GS107,Tea Latte Classics Cafe Mixer Kit,Kit,,,,,,18,C6-GS107,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)",
-GS025,Matcha Kit,Kit,,,,,,18,C6-GS025,6,Y,N,🌲✨; NOT LIVE,
-GS068,Afternoon Tee Time Cafe (white box),Kit,,,,,,18,C6-GS068,6,Y,Y,"🌲✨; YES (B2B), YES (DTC), YES (FAIRE)",
-GS069,Club House Coffee Cafe,Kit,,,,,,18,C6-GS069,6,Y,Y,"🌲✨; YES (B2B), YES (DTC), YES (FAIRE)",
-GS071,Aperitivo Spritz,Kit,,,,,,18,C6-GS071,6,Y,Y,"🌲✨; YES (B2B), YES (DTC), YES (FAIRE)",
-GS078,Cafe Dolce Cafe,Kit,,,,,,18,C6-GS078,6,Y,Y,"🌲✨; YES (B2B), YES (DTC), YES (FAIRE)",
-GS121,Apres Ski - Bourbon Toddy Trio,Kit,,,,,,18,C6-GS121,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)",
-GS122,Apres Ski - Spritzer Kit,Kit,,,,,,18,C6-GS122,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)",
-GS124,S'Mores Espresso Martini Kit,Kit,,,,,,18,C6-GS124,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)",
-GS125,Champagne Chalet Trio,Kit,,,,,,18,C6-GS125,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)",
-GS128,Cozy Cabin Coffee Trio,Kit,,,,,,18,C6-GS128,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)",
-GS129,Winter Cocoa,Kit,,,,,,18,C6-GS129,6,Y,Y,"⛷️; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS127,Winter Lodge Mulled Wine Trio,Kit,,,,,,18,C6-GS127,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)",
-GS120,Apres Ski - S'Mores Rum Toddy Kit,Kit,,,,,,18,C6-GS120,6,Y,Y,"⛷️; DISCONTINUING, YES (FAIRE), YES (B2B), YES (DTC); marked xx in source",
-GS123,Apres Ski - Sangria Kit,Kit,,,,,,18,C6-GS123,6,Y,Y,"⛷️; DISCONTINUING, YES (FAIRE), YES (B2B), YES (DTC); marked xx in source",
-GS126,Chai Eggnog Old Fashioned Kit,Kit,,,,,,18,C6-GS126,6,Y,Y,"⛷️; DISCONTINUING, YES (FAIRE), YES (B2B), YES (DTC); marked xx in source",
-GS141,**soda pop shop -- flavour trio,Kit,,,,,,18,C6-GS141,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)",
-GS142,**lemonade stand -- flavour trio,Kit,,,,,,18,C6-GS142,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)",
-GS143,"**red, white & blueberry spritz --  mixer trio",Kit,,,,,,18,C6-GS143,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)",
-GS144,**berries & cream cold foam --  cafe mixer trio,Kit,,,,,,18,C6-GS144,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)",
-GS145,**blueberry bourbon smash -- cocktail mixer kit,Kit,,,,,,18,C6-GS145,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)",
-GS038,Champagne Crystal Kit (blush box),Kit,,,,,,18,,,Y,N,🎀; NOT LIVE,
-GS051,Strawberry Rose Champagne Mixer Kit,Kit,,,,,,18,C6-GS051,6,Y,N,🎀; NOT LIVE,
-GS064,Classic Espresso Martini  Mixer Kit,Kit,,,,,,18,C6-GS064,6,Y,N,🎀; NOT LIVE,
-GS110,Hot Cocoa Mixer Kit,Kit,,,,,,18,C6-GS110,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS111,White Chocolate Candy Cane Martini Mixer Kit,Kit,,,,,,18,C6-GS111,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS112,Holiday Champagne Mimosa Mixer Kit,Kit,,,,,,18,C6-GS112,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS113,Holiday Bourbon Cocktail Mixer Set,Kit,,,,,,18,C6-GS113,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS115,Classic Christmas Cafe Mixer Trio,Kit,,,,,,18,C6-GS115,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS116,Hot Cocoa Martini Mixer Kit,Kit,,,,,,18,C6-GS116,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS117,L’Chaim Martini Mixer Trio,Kit,,,,,,18,C6-GS117,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS118,Sameach Café Mixer Trio,Kit,,,,,,18,C6-GS118,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS119,Share the Light,Kit,,,,,,18,C6-GS119,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)",
-GS114,Candy Cane Cookie Latte Cafe Set,Kit,,,,,,18,C6-GS114,6,Y,Y,"🎁; DISCONTINUING, YES (B2B), YES (DTC), YES (FAIRE); marked xx in source",
-GS037-PK,Birthday Cafe Blush,Kit,,,,,,12,C6-GS037-PK,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS037-WH,Birthday Cake Party Kit,Kit,,,,,,12,C6-GS037-WH,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS087,A 'Tini Bit Older Martini Mixer Kit,Kit,,,,,,18,C6-GS087,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS082,Mom-Mosa Mimosa Mixer Trio,Kit,,,,,,18,C6-GS082,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS083,Best Mom Ever Martini Mixer,Kit,,,,,,18,C6-GS083,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS085,Best Dad Ever Cocktail Mixer Kit,Kit,,,,,,18,C6-GS085,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS088,Love you Dad Cafe Mixer Kit,Kit,,,,,,18,C6-GS088,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS090,HOORAY Shimmering Mimosa Trio,Kit,,,,,,18,C6-GS090,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS091-BK,Congratulations Mixer Trio - Black Box,Kit,,,,,,18,C6-GS091-BK,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS091-WH,Congratulations Mixer Trio - White Box,Kit,,,,,,18,C6-GS091-WH,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS092-BK,ConGRADtulations Mixer Trio - Black Box,Kit,,,,,,18,C6-GS092-BK,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS092-WH,ConGRADtulations Mixer Trio - White Box,Kit,,,,,,18,C6-GS092-WH,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)",
-GS150,Cheers to the Bride & Groom - Champagne Toast Mixer Kit,Kit,,,,,,18,C6-GS150,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)",
-GS151-G,Cheers to the Bride (Gold Insert - Cream Label)  - Champagne Toast Mixer Kit,Kit,,,,,,18,C6-GS151-WH,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)",
-GS151-SV,Cheers to the Bride (Silver Insert - Blue Label) - Champagne Toast Mixer Kit,Kit,,,,,,18,C6-GS151-BU,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)",
-GS152,Bridesmaid Proposal - Champagne Toast Mixer Kit,Kit,,,,,,18,C6-GS152,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)",
-GS153,Groomsmen Proposal - Bourbon Cocktail Mixer Kit,Kit,,,,,,18,C6-GS153,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)",
-GS154,Bachelortte Party Shimmering Mimosa Trio,Kit,,,,,,18,C6-GS154,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)",
-GS155,Let's Go Girls Shimmering Mimosa Trio,Kit,,,,,,18,C6-GS155,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)",
-GS095,Pecan Pie Latte Mixer Kit,Kit,,,,,,18,C6-GS095,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)",
-GS096,Tiramisu Martini Cocktail Mixer Kit,Kit,,,,,,18,C6-GS096,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)",
-GS097,Maple Crumble old Fashioned,Kit,,,,,,18,C6-GS097,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)",
-GS098,Pie Flight Mimosa Mixer Kit,Kit,,,,,,18,C6-GS098,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)",
-GS099,Coconut Cream Matcha Latte Kit,Kit,,,,,,12,C6-GS099,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)",
-GS146,Witches Brew Punch Mixer Kit,Kit,,,,,,12,C6-GS146,6,Y,Y,"🍁🎃; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS147,Candy Corn Latte Mixer Kit,Kit,,,,,,18,C6-GS147,6,Y,Y,"🍁🎃; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS148,Poison Apple Martini kit,Kit,,,,,,12,C6-GS148,6,Y,Y,"🍁🎃; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS149,Vampire Mimosa Trio,Kit,,,,,,18,C6-GS149,6,Y,Y,"🍁🎃; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS100,Shimmer Champagne Mixer Trio,Kit,,,,,,18,C6-GS100,6,Y,Y,"❄️; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS101,Hot Cocoa Flavour Bar Mixer Trio,Kit,,,,,,18,C6-GS101,6,Y,Y,"❄️; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS170,Good Tidings Mimosa Kit,Kit,,,,,,18,C6-GS170,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS171,Citrus and Spice Mulled Wine,Kit,,,,,,18,C6-GS171,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS172,Christmas at the Cafe,Kit,,,,,,18,C6-GS172,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS173,Christmas Tea,Kit,,,,,,18,C6-GS173,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS174,Honeyed Gold Espresso Martini,Kit,,,,,,18,C6-GS174,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS175,Gingerbread Chai Latte,Kit,,,,,,18,C6-GS175,,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)",
-GS160,White Chocolate Candy Cane Martini Mixer Kit (RD Box - GN Insert),Kit,,,,,,18,,,Y,N,inactive,
-GS161,Holiday Bourbon Cocktail Mixer Set (GN-G Box with RD Insert),Kit,,,,,,18,,,Y,N,inactive,
-GS162,Witch / Spell Purple box small details,Kit,,,,,,18,,,Y,N,inactive,
-GS163,Candy Corn Home Home goods,Kit,,,,,,18,,,Y,N,inactive,
-GS082-1,Mom-Mosa Mimosa Mixer Set (robin's egg box),Kit,,,,,,18,GS082-1-CS6,,Y,N,inactive,
-GS130,Vanilla Chai Old Fashioned Mixer Kit,Kit,,,,,,18,C6-GS130,6,Y,N,discontinued,
-GS131,Harvest Mimosa Kit,Kit,,,,,,18,C6-GS131,6,Y,N,discontinued,
-GS131-RD,Harvest Mimosa Kit (Red Box),Kit,,,,,,18,C6-GS131-RD,6,Y,N,discontinued,
-GS132,Flannel & Spice Mulled Wine Mixer Kit,Kit,,,,,,18,C6-GS132,6,Y,N,discontinued,
-GS133,Salted Honey Espresso Martini Kit,Kit,,,,,,18,C6-GS133,6,Y,N,discontinued,
-GS134,Pumpkin Cheesecake Martini Kit,Kit,,,,,,18,C6-GS134,6,Y,N,discontinued,
-GS135,Roasted Pear & Honey Latte Kit,Kit,,,,,,18,C6-GS135,6,Y,N,discontinued,
-GS136,Horchata Mocha Cafe Kit,Kit,,,,,,18,C6-GS136,6,Y,N,discontinued,
-GS002-MS,Champagne Cocktail Mixer Kit - Congrats to the Mrs & Mrs,Kit,,,,,,18,GS002-MS-CS6,6,N,N,inactive,
-GS001,Champagne Brunch Kit,Kit,,,,,,18,GS001-CS6,3,Y,N,inactive,
-GS001-2,Seasonal Stick Kit,Kit,,,,,,18,GS001-2-CS6,3,Y,N,inactive,
-GS002,Champagne Cocktail Mixer Kit,Kit,,,,,,18,GS002-CS6,6,N,N,inactive,
-GS002-1,Passport to: Champagne Kit,Kit,,,,,,18,C6-GS002-1,6,N,N,inactive,
-GS002-BG,Champagne Cocktail Mixer Kit - Cheers to Bride & Groom,Kit,,,,,,18,C6-GS002-BG,6,N,N,inactive,
-GS002-BP,Champagne Cocktail Mixer Kit - Bridesmaid Proposal,Kit,,,,,,18,C6-GS002-BP,6,N,N,inactive,
-GS002-CB,Champagne Cocktail Mixer Kit - Cheers to Bride,Kit,,,,,,18,C6-GS002-CB,6,N,N,inactive,
-GS002-MM,Champagne Cocktail Mixer Kit - Congrats to the Mr & Mrs,Kit,,,,,,18,GS002-MM-CS6,6,N,N,inactive,
-GS002-MR,Champagne Cocktail Mixer Kit - Congrats to the Mr & Mr,Kit,,,,,,18,GS002-MR-CS6,6,N,N,inactive,
-GS003,Classic Cocktail Kit,Kit,,,,,,18,GS003-CS6,6,N,N,inactive,
-GS003-1,Passport to: Cocktail Kit,Kit,,,,,,18,C6-GS003-1,6,N,N,inactive,
-GS003-GP,Classic Cocktail Mixer Kit - Groomsman Proposal,Kit,,,,,,18,C6-GS003-GP,6,N,N,inactive,
-GS004,Spring Cocktail Kit,Kit,,,,,,18,,,N,N,inactive,
-GS005,Mimosa Cocktail Mixer Kit,Kit,,,,,,18,GS005-CS6,6,N,N,inactive,
-GS005-1,Passport to: Mimosa Kit,Kit,,,,,,18,C6-GS005-1,6,N,N,inactive,
-GS006,Holiday Kit,Kit,,,,,,18,,,N,N,inactive,
-GS007,Ultimate Mimosa Sugar Stick Set (w/peach),Kit,,,,,,18,,,N,N,inactive,
-GS008,Ultimate Mimosa Set (w/rose petals),Kit,,,,,,18,,,N,N,inactive,
-GS009,Beer Cocktail Kit,Kit,,,,,,18,,,N,N,inactive,
-GS010,Irish Bar Kit,Kit,,,,,,18,,,N,N,inactive,
-GS011,Rosé Kit  (also Strawberry & Peach | Duo Sugar Stick Kit),Kit,,,,,,18,,,N,N,inactive,
-GS012,Arcadia Orange & Grapefruit | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive,
-GS013,Salted Caramel & Vanilla | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive,
-GS014,Moscow Mule & Old Fashioned | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive,
-GS015,Cosmo & Mojito | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive,
-GS016,Raspberry & Rose | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive,
-GS017,Pumpkin Spice Latte Kit,Kit,,,,,,18,,,N,N,inactive,
-GS018,Fall Kit,Kit,,,,,,18,,,N,N,inactive,
-GS019,Founders Favorite Kit,Kit,,,,,,18,,,N,N,inactive,
-GS020,Hot Cocoa Kit,Kit,,,,,,18,,,N,N,inactive,
-GS021,Champagne Jar Trio,Kit,,,,,,18,,,N,N,inactive,
-GS022,Mimosa Jar Trio,Kit,,,,,,18,,,N,N,inactive,
-GS023,Cocktail Jar Trio (also Rose Duo),Kit,,,,,,18,,,N,N,inactive,
-GS024,Sparkling Wine Kit (also was Mimosa Duo),Kit,,,,,,18,,,N,N,inactive,
-GS026,Golden Latte Kit,Kit,,,,,,18,GS026-CS6,6,N,N,inactive,
-GS027,Ruby Latte Kit,Kit,,,,,,18,GS027-CS6,6,N,N,inactive,
-GS028,Champagne Party Kit Raspberry + Rose Petal Jars,Kit,,,,,,18,,,N,N,inactive,
-GS029,Champagne Party Kit Grapefruit + Rose Petal Jars,Kit,,,,,,18,,,N,N,inactive,
-GS030,Hot Cocoa Kit (Peppermint only Topping) for UCG,Kit,,,,,,18,,,N,N,inactive,
-GS032,Passport to: Coffee Kit,Kit,,,,,,18,C6-GS032,6,N,N,inactive,
-GS033,Passport to: Tea Kit,Kit,,,,,,18,C6-GS033,6,N,N,inactive,
-GS034,Passport to: Martini Kit,Kit,,,,,,18,C6-GS034,6,N,N,inactive,
-GS034-1,Martini Classics Kit,Kit,,,,,,18,GS034-1-CS6,6,N,N,inactive,
-GS035,Classic Holiday Kit,Kit,,,,,,18,,,N,N,inactive,
-GS036,(SOLD OUT)  Special Edition INSTANT CHAMPAGNE COCKTAIL KIT,Kit,,,,,,18,,,N,N,inactive,
-GS050,Chocolate Strawberry Martini Mixer Kit,Kit,,,,,,18,GS050-CS6,6,N,N,inactive,
-GS052,Heart Beet Latte Kit,Kit,,,,,,18,GS052-CS6,6,N,N,inactive,
-GS053,XOXO Champangne Mixer Set,Kit,,,,,,18,GS053-CS6,6,N,N,inactive,
-GS054,Be Mine Martini Mixer Kit,Kit,,,,,,18,GS054-CS6,6,N,N,inactive,
-GS055,Matcha Made in Heaven Latte Kit,Kit,,,,,,18,GS055-CS6,6,N,N,inactive,
-GS056,Love You Latte Kit,Kit,,,,,,18,GS056-CS6,6,N,N,inactive,
-GS057,Mint To Be (Strawberry Mint Julep Mixer Kit),Kit,,,,,,18,GS057-CS6,6,N,N,inactive,
-GS058,Luck Of The Irish Latte Kit,Kit,,,,,,18,GS058-CS6,6,N,N,inactive,
-GS059,Irish Espresso Martini Mixer Kit,Kit,,,,,,18,GS059-CS6,6,N,N,inactive,
-GS060,Sparkly Green Champagne Mixer Kit,Kit,,,,,,18,GS060-CS6,6,N,N,inactive,
-GS061,Grasshopper Martini Mixer Kit,Kit,,,,,,18,GS061-CS6,6,N,N,inactive,
-GS062,Azalea Champagne Cocktail Mixer Kit,Kit,,,,,,18,GS062-CS6,6,N,N,inactive,
-GS063,Tom Collins Champagne Spritzer Mixer Kit,Kit,,,,,,18,GS063-CS6,6,N,N,inactive,
-GS065,Champagne Old Fashioned Kit,Kit,,,,,,18,GS065-CS6,6,N,N,inactive,
-GS066,Peached Old Fashioned Mixer Kit,Kit,,,,,,18,GS066-CS6,6,N,N,inactive,
-GS067,Strawberry Mint Julep Mixer Kit,Kit,,,,,,18,GS067-CS6,6,N,N,inactive,
-GS070,Pompelcello Spritz Mixer Set,Kit,,,,,,18,GS070-CS6,6,N,N,inactive,
-GS072,Strawberry Lemoncello Martini Mixer Kit,Kit,,,,,,18,GS072-CS6,6,N,N,inactive,
-GS073,Mint Lemoncello Martini Mixer Kit,Kit,,,,,,18,GS073-CS6,6,N,N,inactive,
-GS074,Sangria Blanca Kit (White Sangria),Kit,,,,,,18,GS074-CS6,6,N,N,inactive,
-GS075,Sangria Rossa Kit (Red Sangria),Kit,,,,,,18,GS075-CS6,6,N,N,inactive,
-GS076,Sangria Italian Sol (Fruit Sangria),Kit,,,,,,18,GS076-CS6,6,N,N,inactive,
-GS077,Tiramisu Cafe Kit,Kit,,,,,,18,GS077-CS6,6,N,N,inactive,
-GS079,Paper Plane Passport Mixer Kit,Kit,,,,,,18,GS079-CS6,6,N,N,inactive,
-GS080,Mom's Off Duty Champagne Mixer Set,Kit,,,,,,18,GS080-CS6,6,N,N,inactive,
-GS081,Happy Mothers Day Champagne Mixer Set,Kit,,,,,,18,GS081-CS6,6,N,N,inactive,
-GS084,Cool Mom Cafe Kit,Kit,,,,,,18,GS084-CS6,6,N,N,inactive,
-GS085-1,Worlds Best Dad Cocktail Set (black box),Kit,,,,,,18,GS085-1-CS6,6,N,N,inactive,
-GS086,The Bourbon Legend Peach Cobbler Old Fashioned Mixer Kit,Kit,,,,,,18,GS086-CS6,6,N,N,inactive,
-GS086-1,The Bourbon Legend Peach Cobbler Old Fashioned Mixer Kit (black box),Kit,,,,,,18,GS086-1-CS6,6,N,N,inactive,
-TB002,Vanilla Bean Cafe Mixer Tallboy,Tallboy,002,,,,,30,C6-TB002,6,Y,Y,,
-TB003,Lavender London Fog Cafe Mixer Tallboy,Tallboy,003,,,,,30,C6-TB003,6,Y,Y,,003-NI
-TB004,Salted Caramel Cafe Mixer Tallboy,Tallboy,004,,,,,30,C6-TB004,6,Y,Y,,
-TB005,Strawberry Bellini Mimosa Mixer Tallboy,Tallboy,005,,,,,30,C6-TB005,6,Y,Y,,
-TB006,Peach Bellini Mimosa Mixer Tallboy,Tallboy,006,,,,,30,C6-TB006,6,Y,Y,,
-TB009,Orange Mimosa Mimosa Mixer Tallboy,Tallboy,009,,,,,30,C6-TB009,6,Y,Y,,
-TB012,Old Fashioned Cocktail Mixer Tallboy,Tallboy,012,,,,,30,C6-TB012,6,Y,Y,,
-TB013,Manhattan Cocktail Mixer Tallboy,Tallboy,013,,,,,30,C6-TB013,6,Y,Y,,
-TB016,Cosmo Martini Cocktail Mixer Tallboy,Tallboy,016,,,,,30,C6-TB016,6,Y,Y,,
-TB017,Pumpkin Spice Cafe Mixer Tallboy,Tallboy,017,,,,,30,C6-TB017,6,Y,Y,Out ,
-TB018,Spiced Apple Toddy Cocktail Mixer Tallboy,Tallboy,018,,,,,30,C6-TB018,6,Y,Y,,
-TB034,Espresso Martini Cocktail Mixer Tallboy,Tallboy,034,,,,,30,C6-TB034,6,Y,Y,,
-TB045,Gingerbread Latte Cafe Mixer Tallboy,Tallboy,045,,,,,30,C6-TB045,6,Y,Y,Out,
-TB047,Crushed Candy Cane Cafe Mixer Tallboy,Tallboy,047,,,,,30,C6-TB047,6,Y,Y,,
-TB049,Cinnamon Hazelnut Cafe Mixer Tallboy,Tallboy,049,,,,,30,C6-TB049,6,Y,Y,,
-TB056,Aperitivo Spritz Cocktail Mixer Tallboy,Tallboy,056,,,,,30,C6-TB056,6,Y,Y,,
-TB058,Lemon Drop Martini Cocktail Mixer Tallboy,Tallboy,058,,,,,30,C6-TB058,6,Y,Y,,
-TB059,Apple Cider Mimosa Mixer Tallboy,Tallboy,059,,,,,30,C6-TB059,6,Y,Y,,
-GS037,Birthday Party Kit,Kit,,,,,,12,C6-GS037,6,N,N,Legacy,
-SS001,Rose | Stick,Stick,001,,,,,12,C6-SS001,6,Y,Y,,
-SS002,Vanilla | Stick,Stick,002,,,,,12,C6-SS002,6,Y,Y,,
-SS003,London Fog | Stick,Stick,003,,,,,12,C6-SS003,6,Y,Y,,
-SS004,Salted Caramel | Stick,Stick,004,,,,,12,C6-SS004,6,Y,Y,,
-SS005,Strawberry | Stick,Stick,005,,,,,12,C6-SS005,6,Y,Y,,
-SS006,Peach | Stick,Stick,006,,,,,12,C6-SS006,6,Y,Y,,
-SS007,Raspberry | Stick,Stick,007,,,,,12,C6-SS007,6,Y,Y,,
-SS008,Grapefruit | Stick,Stick,008,,,,,12,C6-SS008,6,Y,Y,,
-SS009,Arcadia Orange | Stick,Stick,009,,,,,12,C6-SS009,6,Y,Y,,
-SS010,Lemon | Stick,Stick,010,,,,,12,C6-SS010,6,Y,Y,,
-SS011,Moscow Mule | Stick,Stick,011,,,,,12,C6-SS011,6,Y,Y,,
-SS012,Old Fashioned | Stick,Stick,012,,,,,12,C6-SS012,6,Y,Y,,
-SS013,Manhattan | Stick,Stick,013,,,,,12,C6-SS013,6,Y,Y,,
-SS014,Mint Julep | Stick,Stick,014,,,,,12,C6-SS014,6,Y,Y,,
-SS015,Mojito | Stick,Stick,015,,,,,12,C6-SS015,6,Y,Y,,
-SS016,Cosmo | Stick,Stick,016,,,,,12,C6-SS016,6,Y,Y,,
-SS017,Pumpkin Spice | Stick,Stick,017,,,,,12,C6-SS017,6,Y,Y,,
-SS018,Spiced Apple Toddy | Stick,Stick,018,,,,,12,C6-SS018,6,Y,Y,,
-SS019,White Peppermint Mocha | Stick,Stick,019,,,,,12,C6-SS019,6,Y,Y,,
-SS023,White Chocolate Cocoa | Stick,Stick,023,,,,,12,C6-SS023,6,Y,Y,,
-SS024,Classic Cocoa | Stick,Stick,024,,,,,12,C6-SS024,6,Y,Y,,
-SS034,Espresso Martini | Stick,Stick,034,,,,,12,C6-SS34,6,Y,Y,,
-SS119,Kentucky Mule | Stick ,Stick,119,,,,,12,C6-SS119,6,Y,Y,,
-SB001,Rose,Bulk Bag,001,Rose,,,,50,,,Y,Y,,
-SB002,Vanilla,Bulk Bag,002,Vanilla,,,,50,,,Y,Y,,
-SB004,Salted Caramel,Bulk Bag,004,Salted Caramel,,,,50,,,Y,Y,,
-SB006,Peach Bellini,Bulk Bag,006,Peach Bellini,,,,50,,,Y,Y,,
-SB007,Raspberry Bellini,Bulk Bag,007,Raspberry Bellini,,,,50,,,Y,Y,,
-SB008,Shimmer Grapefruit,Bulk Bag,008,Shimmer Grapefruit,,,,50,,,Y,Y,,
-SB009,Arcadia Orange,Bulk Bag,009,Arcadia Orange,,,,50,,,Y,Y,,
-SB010,Shimmer Lemon,Bulk Bag,010,Shimmer Lemon,,,,50,,,Y,Y,,
-SB011,Moscow Mule,Bulk Bag,011,Moscow Mule,,,,50,,,Y,Y,,
-SB012,Old Fashioned,Bulk Bag,012,Old Fashioned,,,,50,,,Y,Y,,
-SB013,Manhattan,Bulk Bag,013,Manhattan,,,,50,,,Y,Y,,
-SB016,Shimmer Cosmo,Bulk Bag,016,Shimmer Cosmo,,,,50,,,Y,Y,,
-SB023,White Chocolate Mocha,Bulk Bag,023,White Chocolate Mocha,,,,50,,,Y,Y,,
-SB024,Classic Cocoa,Bulk Bag,024,Classic Cocoa,,,,50,,,Y,Y,,
-SB034,Espresso Martini,Bulk Bag,034,Espresso Martini,,,,50,,,Y,Y,,
-SB049,Cinnamon Hazelnut,Bulk Bag,049,Cinnamon Hazelnut,,,,50,,,Y,Y,,
-SB058,Shimmer Lemon Drop,Bulk Bag,058,Shimmer Lemon Drop,,,,50,,,Y,Y,,
-SB119,Kentucky Mule,Bulk Bag,119,Kentucky Mule,,,,50,,,Y,Y,,
+sku,product_name,product_type,flavor_code,flavor_name,flavor_category,label_code,cap_color,cubes_per_unit,case_sku,case_qty,include_in_plan,active,notes
+GS001,Champagne Brunch Kit,Kit,,,,,,18,GS001-CS6,3,Y,N,inactive
+GS001-2,Seasonal Stick Kit,Kit,,,,,,18,GS001-2-CS6,3,Y,N,inactive
+GS002,Champagne Cocktail Mixer Kit,Kit,,,,,,18,GS002-CS6,6,N,N,inactive
+GS002-1,Passport to: Champagne Kit,Kit,,,,,,18,C6-GS002-1,6,N,N,inactive
+GS002-BG,Champagne Cocktail Mixer Kit - Cheers to Bride & Groom,Kit,,,,,,18,C6-GS002-BG,6,N,N,inactive
+GS002-BP,Champagne Cocktail Mixer Kit - Bridesmaid Proposal,Kit,,,,,,18,C6-GS002-BP,6,N,N,inactive
+GS002-CB,Champagne Cocktail Mixer Kit - Cheers to Bride,Kit,,,,,,18,C6-GS002-CB,6,N,N,inactive
+GS002-MM,Champagne Cocktail Mixer Kit - Congrats to the Mr & Mrs,Kit,,,,,,18,GS002-MM-CS6,6,N,N,inactive
+GS002-MR,Champagne Cocktail Mixer Kit - Congrats to the Mr & Mr,Kit,,,,,,18,GS002-MR-CS6,6,N,N,inactive
+GS002-MS,Champagne Cocktail Mixer Kit - Congrats to the Mrs & Mrs,Kit,,,,,,18,GS002-MS-CS6,6,N,N,inactive
+GS003,Classic Cocktail Kit,Kit,,,,,,18,GS003-CS6,6,N,N,inactive
+GS003-1,Passport to: Cocktail Kit,Kit,,,,,,18,C6-GS003-1,6,N,N,inactive
+GS003-GP,Classic Cocktail Mixer Kit - Groomsman Proposal,Kit,,,,,,18,C6-GS003-GP,6,N,N,inactive
+GS004,Spring Cocktail Kit,Kit,,,,,,18,,,N,N,inactive
+GS005,Mimosa Cocktail Mixer Kit,Kit,,,,,,18,GS005-CS6,6,N,N,inactive
+GS005-1,Passport to: Mimosa Kit,Kit,,,,,,18,C6-GS005-1,6,N,N,inactive
+GS006,Holiday Kit,Kit,,,,,,18,,,N,N,inactive
+GS007,Ultimate Mimosa Sugar Stick Set (w/peach),Kit,,,,,,18,,,N,N,inactive
+GS008,Ultimate Mimosa Set (w/rose petals),Kit,,,,,,18,,,N,N,inactive
+GS009,Beer Cocktail Kit,Kit,,,,,,18,,,N,N,inactive
+GS010,Irish Bar Kit,Kit,,,,,,18,,,N,N,inactive
+GS011,Rosé Kit  (also Strawberry & Peach | Duo Sugar Stick Kit),Kit,,,,,,18,,,N,N,inactive
+GS012,Arcadia Orange & Grapefruit | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive
+GS013,Salted Caramel & Vanilla | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive
+GS014,Moscow Mule & Old Fashioned | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive
+GS015,Cosmo & Mojito | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive
+GS016,Raspberry & Rose | Duo Sugar Stick Kit,Kit,,,,,,18,,,N,N,inactive
+GS017,Pumpkin Spice Latte Kit,Kit,,,,,,18,,,N,N,inactive
+GS018,Fall Kit,Kit,,,,,,18,,,N,N,inactive
+GS019,Founders Favorite Kit,Kit,,,,,,18,,,N,N,inactive
+GS020,Hot Cocoa Kit,Kit,,,,,,18,,,N,N,inactive
+GS021,Champagne Jar Trio,Kit,,,,,,18,,,N,N,inactive
+GS022,Mimosa Jar Trio,Kit,,,,,,18,,,N,N,inactive
+GS023,Cocktail Jar Trio (also Rose Duo),Kit,,,,,,18,,,N,N,inactive
+GS024,Sparkling Wine Kit (also was Mimosa Duo),Kit,,,,,,18,,,N,N,inactive
+GS025,Matcha Kit,Kit,,,,,,18,C6-GS025,6,Y,N,🌲✨; NOT LIVE
+GS026,Golden Latte Kit,Kit,,,,,,18,GS026-CS6,6,N,N,inactive
+GS027,Ruby Latte Kit,Kit,,,,,,18,GS027-CS6,6,N,N,inactive
+GS028,Champagne Party Kit Raspberry + Rose Petal Jars,Kit,,,,,,18,,,N,N,inactive
+GS029,Champagne Party Kit Grapefruit + Rose Petal Jars,Kit,,,,,,18,,,N,N,inactive
+GS030,Hot Cocoa Kit (Peppermint only Topping) for UCG,Kit,,,,,,18,,,N,N,inactive
+GS032,Passport to: Coffee Kit,Kit,,,,,,18,C6-GS032,6,N,N,inactive
+GS033,Passport to: Tea Kit,Kit,,,,,,18,C6-GS033,6,N,N,inactive
+GS034,Passport to: Martini Kit,Kit,,,,,,18,C6-GS034,6,N,N,inactive
+GS034-1,Martini Classics Kit,Kit,,,,,,18,GS034-1-CS6,6,N,N,inactive
+GS035,Classic Holiday Kit,Kit,,,,,,18,,,N,N,inactive
+GS036,(SOLD OUT)  Special Edition INSTANT CHAMPAGNE COCKTAIL KIT,Kit,,,,,,18,,,N,N,inactive
+GS037,Birthday Party Kit,Kit,,,,,,12,C6-GS037,6,N,N,Legacy
+GS037-PK,Birthday Cafe Blush,Kit,,,,,,12,C6-GS037-PK,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS037-WH,Birthday Cake Party Kit,Kit,,,,,,12,C6-GS037-WH,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS038,Champagne Crystal Kit (blush box),Kit,,,,,,18,,,Y,N,🎀; NOT LIVE
+GS050,Chocolate Strawberry Martini Mixer Kit,Kit,,,,,,18,GS050-CS6,6,N,N,inactive
+GS051,Strawberry Rose Champagne Mixer Kit,Kit,,,,,,18,C6-GS051,6,Y,N,🎀; NOT LIVE
+GS052,Heart Beet Latte Kit,Kit,,,,,,18,GS052-CS6,6,N,N,inactive
+GS053,XOXO Champangne Mixer Set,Kit,,,,,,18,GS053-CS6,6,N,N,inactive
+GS054,Be Mine Martini Mixer Kit,Kit,,,,,,18,GS054-CS6,6,N,N,inactive
+GS055,Matcha Made in Heaven Latte Kit,Kit,,,,,,18,GS055-CS6,6,N,N,inactive
+GS056,Love You Latte Kit,Kit,,,,,,18,GS056-CS6,6,N,N,inactive
+GS057,Mint To Be (Strawberry Mint Julep Mixer Kit),Kit,,,,,,18,GS057-CS6,6,N,N,inactive
+GS058,Luck Of The Irish Latte Kit,Kit,,,,,,18,GS058-CS6,6,N,N,inactive
+GS059,Irish Espresso Martini Mixer Kit,Kit,,,,,,18,GS059-CS6,6,N,N,inactive
+GS060,Sparkly Green Champagne Mixer Kit,Kit,,,,,,18,GS060-CS6,6,N,N,inactive
+GS061,Grasshopper Martini Mixer Kit,Kit,,,,,,18,GS061-CS6,6,N,N,inactive
+GS062,Azalea Champagne Cocktail Mixer Kit,Kit,,,,,,18,GS062-CS6,6,N,N,inactive
+GS063,Tom Collins Champagne Spritzer Mixer Kit,Kit,,,,,,18,GS063-CS6,6,N,N,inactive
+GS064,Classic Espresso Martini  Mixer Kit,Kit,,,,,,18,C6-GS064,6,Y,N,🎀; NOT LIVE
+GS065,Champagne Old Fashioned Kit,Kit,,,,,,18,GS065-CS6,6,N,N,inactive
+GS066,Peached Old Fashioned Mixer Kit,Kit,,,,,,18,GS066-CS6,6,N,N,inactive
+GS067,Strawberry Mint Julep Mixer Kit,Kit,,,,,,18,GS067-CS6,6,N,N,inactive
+GS068,Afternoon Tee Time Cafe (white box),Kit,,,,,,18,C6-GS068,6,Y,Y,"🌲✨; YES (B2B), YES (DTC), YES (FAIRE)"
+GS069,Club House Coffee Cafe,Kit,,,,,,18,C6-GS069,6,Y,Y,"🌲✨; YES (B2B), YES (DTC), YES (FAIRE)"
+GS070,Pompelcello Spritz Mixer Set,Kit,,,,,,18,GS070-CS6,6,N,N,inactive
+GS071,Aperitivo Spritz,Kit,,,,,,18,C6-GS071,6,Y,Y,"🌲✨; YES (B2B), YES (DTC), YES (FAIRE)"
+GS072,Strawberry Lemoncello Martini Mixer Kit,Kit,,,,,,18,GS072-CS6,6,N,N,inactive
+GS073,Mint Lemoncello Martini Mixer Kit,Kit,,,,,,18,GS073-CS6,6,N,N,inactive
+GS074,Sangria Blanca Kit (White Sangria),Kit,,,,,,18,GS074-CS6,6,N,N,inactive
+GS075,Sangria Rossa Kit (Red Sangria),Kit,,,,,,18,GS075-CS6,6,N,N,inactive
+GS076,Sangria Italian Sol (Fruit Sangria),Kit,,,,,,18,GS076-CS6,6,N,N,inactive
+GS077,Tiramisu Cafe Kit,Kit,,,,,,18,GS077-CS6,6,N,N,inactive
+GS078,Cafe Dolce Cafe,Kit,,,,,,18,C6-GS078,6,Y,Y,"🌲✨; YES (B2B), YES (DTC), YES (FAIRE)"
+GS079,Paper Plane Passport Mixer Kit,Kit,,,,,,18,GS079-CS6,6,N,N,inactive
+GS080,Mom's Off Duty Champagne Mixer Set,Kit,,,,,,18,GS080-CS6,6,N,N,inactive
+GS081,Happy Mothers Day Champagne Mixer Set,Kit,,,,,,18,GS081-CS6,6,N,N,inactive
+GS082,Mom-Mosa Mimosa Mixer Trio,Kit,,,,,,18,C6-GS082,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS082-1,Mom-Mosa Mimosa Mixer Set (robin's egg box),Kit,,,,,,18,GS082-1-CS6,,Y,N,inactive
+GS083,Best Mom Ever Martini Mixer,Kit,,,,,,18,C6-GS083,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS084,Cool Mom Cafe Kit,Kit,,,,,,18,GS084-CS6,6,N,N,inactive
+GS085,Best Dad Ever Cocktail Mixer Kit,Kit,,,,,,18,C6-GS085,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS085-1,Worlds Best Dad Cocktail Set (black box),Kit,,,,,,18,GS085-1-CS6,6,N,N,inactive
+GS086,The Bourbon Legend Peach Cobbler Old Fashioned Mixer Kit,Kit,,,,,,18,GS086-CS6,6,N,N,inactive
+GS086-1,The Bourbon Legend Peach Cobbler Old Fashioned Mixer Kit (black box),Kit,,,,,,18,GS086-1-CS6,6,N,N,inactive
+GS087,A 'Tini Bit Older Martini Mixer Kit,Kit,,,,,,18,C6-GS087,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS088,Love you Dad Cafe Mixer Kit,Kit,,,,,,18,C6-GS088,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS090,HOORAY Shimmering Mimosa Trio,Kit,,,,,,18,C6-GS090,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS091-BK,Congratulations Mixer Trio - Black Box,Kit,,,,,,18,C6-GS091-BK,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS091-WH,Congratulations Mixer Trio - White Box,Kit,,,,,,18,C6-GS091-WH,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS092-BK,ConGRADtulations Mixer Trio - Black Box,Kit,,,,,,18,C6-GS092-BK,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS092-WH,ConGRADtulations Mixer Trio - White Box,Kit,,,,,,18,C6-GS092-WH,6,Y,Y,"🎉; YES (B2B), YES (DTC), YES (FAIRE)"
+GS095,Pecan Pie Latte Mixer Kit,Kit,,,,,,18,C6-GS095,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)"
+GS096,Tiramisu Martini Cocktail Mixer Kit,Kit,,,,,,18,C6-GS096,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)"
+GS097,Maple Crumble old Fashioned,Kit,,,,,,18,C6-GS097,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)"
+GS098,Pie Flight Mimosa Mixer Kit,Kit,,,,,,18,C6-GS098,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)"
+GS099,Coconut Cream Matcha Latte Kit,Kit,,,,,,12,C6-GS099,6,Y,Y,"🥧; YES (B2B), YES (DTC), YES (FAIRE)"
+GS100,Shimmer Champagne Mixer Trio,Kit,,,,,,18,C6-GS100,6,Y,Y,"❄️; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS101,Hot Cocoa Flavour Bar Mixer Trio,Kit,,,,,,12,C6-GS101,6,Y,Y,"❄️; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS102,Champagne Bellini Cocktail Mixer Kit,Kit,,,,,,18,C6-GS102,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)"
+GS103,Bourbon Cocktail Mixer Kit,Kit,,,,,,18,C6-GS103,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)"
+GS104,Martini Classics Cocktail Mixer Kit,Kit,,,,,,18,C6-GS104,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)"
+GS105,Champagne Mimosa Cocktail Mixer Kit,Kit,,,,,,18,C6-GS105,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)"
+GS106,Coffee Classics Cafe Mixer Kit,Kit,,,,,,18,C6-GS106,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)"
+GS107,Tea Latte Classics Cafe Mixer Kit,Kit,,,,,,18,C6-GS107,6,Y,Y,"🌲; YES (B2B), YES (DTC), YES (FAIRE)"
+GS110,Hot Cocoa Mixer Kit,Kit,,,,,,12,C6-GS110,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS111,White Chocolate Candy Cane Martini Mixer Kit,Kit,,,,,,12,C6-GS111,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS112,Holiday Champagne Mimosa Mixer Kit,Kit,,,,,,18,C6-GS112,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS113,Holiday Bourbon Cocktail Mixer Set,Kit,,,,,,18,C6-GS113,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS114,Candy Cane Cookie Latte Cafe Set,Kit,,,,,,12,C6-GS114,6,Y,Y,"🎁; DISCONTINUING, YES (B2B), YES (DTC), YES (FAIRE); marked xx in source"
+GS115,Classic Christmas Cafe Mixer Trio,Kit,,,,,,18,C6-GS115,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS116,Hot Cocoa Martini Mixer Kit,Kit,,,,,,12,C6-GS116,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS117,L’Chaim Martini Mixer Trio,Kit,,,,,,18,C6-GS117,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS118,Sameach Café Mixer Trio,Kit,,,,,,18,C6-GS118,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS119,Share the Light,Kit,,,,,,18,C6-GS119,6,Y,Y,"🎁; YES (B2B), YES (DTC), YES (FAIRE)"
+GS120,Apres Ski - S'Mores Rum Toddy Kit,Kit,,,,,,18,C6-GS120,6,Y,Y,"⛷️; DISCONTINUING, YES (FAIRE), YES (B2B), YES (DTC); marked xx in source"
+GS121,Apres Ski - Bourbon Toddy Trio,Kit,,,,,,18,C6-GS121,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)"
+GS122,Apres Ski - Spritzer Kit,Kit,,,,,,18,C6-GS122,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)"
+GS123,Apres Ski - Sangria Kit,Kit,,,,,,18,C6-GS123,6,Y,Y,"⛷️; DISCONTINUING, YES (FAIRE), YES (B2B), YES (DTC); marked xx in source"
+GS124,S'Mores Espresso Martini Kit,Kit,,,,,,18,C6-GS124,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)"
+GS125,Champagne Chalet Trio,Kit,,,,,,18,C6-GS125,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)"
+GS126,Chai Eggnog Old Fashioned Kit,Kit,,,,,,18,C6-GS126,6,Y,Y,"⛷️; DISCONTINUING, YES (FAIRE), YES (B2B), YES (DTC); marked xx in source"
+GS127,Winter Lodge Mulled Wine Trio,Kit,,,,,,18,C6-GS127,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)"
+GS128,Cozy Cabin Coffee Trio,Kit,,,,,,18,C6-GS128,6,Y,Y,"⛷️; YES (B2B), YES (DTC), YES (FAIRE)"
+GS129,Winter Cocoa,Kit,,,,,,18,C6-GS129,6,Y,Y,"⛷️; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS130,Vanilla Chai Old Fashioned Mixer Kit,Kit,,,,,,18,C6-GS130,6,Y,N,discontinued
+GS131,Harvest Mimosa Kit,Kit,,,,,,18,C6-GS131,6,Y,N,discontinued
+GS131-RD,Harvest Mimosa Kit (Red Box),Kit,,,,,,18,C6-GS131-RD,6,Y,N,discontinued
+GS132,Flannel & Spice Mulled Wine Mixer Kit,Kit,,,,,,18,C6-GS132,6,Y,N,discontinued
+GS133,Salted Honey Espresso Martini Kit,Kit,,,,,,18,C6-GS133,6,Y,N,discontinued
+GS134,Pumpkin Cheesecake Martini Kit,Kit,,,,,,18,C6-GS134,6,Y,N,discontinued
+GS135,Roasted Pear & Honey Latte Kit,Kit,,,,,,18,C6-GS135,6,Y,N,discontinued
+GS136,Horchata Mocha Cafe Kit,Kit,,,,,,18,C6-GS136,6,Y,N,discontinued
+GS141,**soda pop shop -- flavour trio,Kit,,,,,,18,C6-GS141,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)"
+GS142,**lemonade stand -- flavour trio,Kit,,,,,,18,C6-GS142,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)"
+GS143,"**red, white & blueberry spritz --  mixer trio",Kit,,,,,,18,C6-GS143,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)"
+GS144,**berries & cream cold foam --  cafe mixer trio,Kit,,,,,,18,C6-GS144,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)"
+GS145,**blueberry bourbon smash -- cocktail mixer kit,Kit,,,,,,18,C6-GS145,6,Y,Y,"🇺🇸; YES (B2B), YES (DTC), YES (FAIRE)"
+GS146,Witches Brew Punch Mixer Kit,Kit,,,,,,12,C6-GS146,6,Y,Y,"🍁🎃; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS147,Candy Corn Latte Mixer Kit,Kit,,,,,,18,C6-GS147,6,Y,Y,"🍁🎃; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS148,Poison Apple Martini kit,Kit,,,,,,12,C6-GS148,6,Y,Y,"🍁🎃; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS149,Vampire Mimosa Trio,Kit,,,,,,18,C6-GS149,6,Y,Y,"🍁🎃; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS150,Cheers to the Bride & Groom - Champagne Toast Mixer Kit,Kit,,,,,,18,C6-GS150,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)"
+GS151-G,Cheers to the Bride (Gold Insert - Cream Label)  - Champagne Toast Mixer Kit,Kit,,,,,,18,C6-GS151-WH,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)"
+GS151-SV,Cheers to the Bride (Silver Insert - Blue Label) - Champagne Toast Mixer Kit,Kit,,,,,,18,C6-GS151-BU,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)"
+GS152,Bridesmaid Proposal - Champagne Toast Mixer Kit,Kit,,,,,,18,C6-GS152,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)"
+GS153,Groomsmen Proposal - Bourbon Cocktail Mixer Kit,Kit,,,,,,18,C6-GS153,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)"
+GS154,Bachelortte Party Shimmering Mimosa Trio,Kit,,,,,,18,C6-GS154,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)"
+GS155,Let's Go Girls Shimmering Mimosa Trio,Kit,,,,,,18,C6-GS155,6,Y,Y,"💍; YES (B2B), YES (DTC), YES (FAIRE)"
+GS160,White Chocolate Candy Cane Martini Mixer Kit (RD Box - GN Insert),Kit,,,,,,12,,,Y,N,inactive
+GS161,Holiday Bourbon Cocktail Mixer Set (GN-G Box with RD Insert),Kit,,,,,,18,,,Y,N,inactive
+GS162,Witch / Spell Purple box small details,Kit,,,,,,18,,,Y,N,inactive
+GS163,Candy Corn Home Home goods,Kit,,,,,,18,,,Y,N,inactive
+GS170,Good Tidings Mimosa Kit,Kit,,,,,,18,C6-GS170,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS171,Citrus and Spice Mulled Wine,Kit,,,,,,18,C6-GS171,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS172,Christmas at the Cafe,Kit,,,,,,18,C6-GS172,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS173,Christmas Tea,Kit,,,,,,18,C6-GS173,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS174,Honeyed Gold Espresso Martini,Kit,,,,,,12,C6-GS174,6,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+GS175,Gingerbread Chai Latte,Kit,,,,,,12,C6-GS175,,Y,Y,"🎄; YES (B2B), WIP (FAIRE), NOT STARTED (DTC)"
+SB001,Rose,Bulk Bag,001,Rose,,,,50,,6,Y,Y,
+SB002,Vanilla,Bulk Bag,002,Vanilla,,,,50,,6,Y,Y,
+SB003,London Fog Bulk Bag,Bulk Bag,003,London Fog,,,,50,,,Y,Y,
+SB004,Salted Caramel,Bulk Bag,004,Salted Caramel,,,,50,,6,Y,Y,
+SB005,Strawberry Bulk Bag ,Bulk Bag,005,Strawberry,,,,50,,,Y,Y,
+SB006,Peach Bellini,Bulk Bag,006,Peach Bellini,,,,50,,6,Y,Y,
+SB007,Raspberry Bellini,Bulk Bag,007,Raspberry Bellini,,,,50,,6,Y,Y,
+SB008,Shimmer Grapefruit,Bulk Bag,008,Shimmer Grapefruit,,,,50,,6,Y,Y,
+SB009,Arcadia Orange,Bulk Bag,009,Arcadia Orange,,,,50,,6,Y,Y,
+SB010,Shimmer Lemon,Bulk Bag,010,Shimmer Lemon,,,,50,,6,Y,Y,
+SB011,Moscow Mule,Bulk Bag,011,Moscow Mule,,,,50,,6,Y,Y,
+SB012,Old Fashioned,Bulk Bag,012,Old Fashioned,,,,50,,6,Y,Y,
+SB013,Manhattan,Bulk Bag,013,Manhattan,,,,50,,6,Y,Y,
+SB016,Shimmer Cosmo,Bulk Bag,016,Shimmer Cosmo,,,,50,,6,Y,Y,
+SB023,White Chocolate Mocha,Bulk Bag,023,White Chocolate Mocha,,,,50,,6,Y,Y,
+SB024,Classic Cocoa,Bulk Bag,024,Classic Cocoa,,,,50,,6,Y,Y,
+SB034,Espresso Martini,Bulk Bag,034,Espresso Martini,,,,50,,6,Y,Y,
+SB049,Cinnamon Hazelnut,Bulk Bag,049,Cinnamon Hazelnut,,,,50,,6,Y,Y,
+SB056,Aperitivo Spritz Bulk Bag,Bulk Bag,056,Aperitivo Spritz,,,,50,,,Y,Y,
+SB058,Shimmer Lemon Drop,Bulk Bag,058,Shimmer Lemon Drop,,,,50,,6,Y,Y,
+SB119,Kentucky Mule,Bulk Bag,119,Kentucky Mule,,,,50,,6,Y,Y,
+SM001-GC,Rose,Mini,001,Rose,GC,LM001-GC,Rust,6,C12-SM001-GC,12,Y,Y,
+SM002-GC,Vanilla,Mini,002,Vanilla,GC,LM002-GC,Rust,6,C12-SM002-GC,12,Y,Y,
+SM003,London Fog Mini,Mini,003,London Fog,,,,6,C6-SM003,6,Y,Y,Legacy Mini
+SM004-GC,Salted Caramel,Mini,004,Salted Caramel,GC,LM004-GC,Rust,6,C12-SM004-GC,12,Y,Y,
+SM005-BL,Strawberry Bellini Mini,Mini,005,Strawberry,BL,LM005-BL,,6,C6-SM005-BL,6,Y,Y,
+SM006-BL,Peach Bellini,Mini,006,Peach Bellini,BL,LM006-BL,Cream,6,C12-SM006-BL,12,Y,Y,
+SM007-BL,Raspberry Bellini,Mini,007,Raspberry Bellini,BL,LM007-BL,Cream,6,C12-SM007-BL,12,Y,Y,
+SM008-PM,Shimmer Grapefruit,Mini,008,Shimmer Grapefruit,PM,LM008-PM,Cream,6,C12-SM008-PM,12,Y,Y,
+SM009-PM,Arcadia Orange,Mini,009,Arcadia Orange,PM,LM009-PM,Cream,6,C12-SM009-PM,12,Y,Y,
+SM010-PM,Shimmer Lemon,Mini,010,Shimmer Lemon,PM,LM010-PM,Cream,6,C12-SM010-PM,12,Y,Y,
+SM011-PC,Moscow Mule,Mini,011,Moscow Mule,PC,LM011-PC,Green,6,C12-SM011-PC,12,Y,Y,
+SM012-PC,Old Fashioned,Mini,012,Old Fashioned,PC,LM012-PC,Green,6,C12-SM012-PC,12,Y,Y,
+SM013-PC,Manhattan,Mini,013,Manhattan,PC,LM013-PC,Green,6,C12-SM013-PC,12,Y,Y,
+SM016-PC,Shimmer Cosmo,Mini,016,Shimmer Cosmo,PC,LM016-PC,Green,6,C12-SM016-PC,12,Y,Y,
+SM017,Pumpkin Spice Mini,Mini,017,Pumpkin Spice,,,,6,C6-SM017,6,Y,Y,Legacy Mini
+SM018,Spiced Apple Toddy Mini,Mini,018,Spiced Apple Toddy,,,,6,C6-SM018,6,Y,Y,Legacy Mini
+SM023-GC,White Chocolate Mocha,Mini,023,White Chocolate Mocha,GC,LM023-GC,Rust,6,C12-SM023-GC,12,Y,Y,
+SM024-GC,Classic Cocoa,Mini,024,Classic Cocoa,GC,LM024-GC,Rust,6,C12-SM024-GC,12,Y,Y,
+SM034-PC,Espresso Martini,Mini,034,Espresso Martini,PC,LM034-PC,Green,6,C12-SM034-PC,12,Y,Y,
+SM049-GC,Cinnamon Hazelnut,Mini,049,Cinnamon Hazelnut,GC,LM049-GC,Rust,6,C12-SM049-GC,12,Y,Y,
+SM058-PC,Shimmer Lemon Drop,Mini,058,Shimmer Lemon Drop,PC,LM058-PC,Green,6,C12-SM058-PC,12,Y,Y,
+SM095-GC,Roasted Pear Mini,Mini,095,Roasted Pear,GC,LM095-GC,Rust,6,,6,Y,Y,Seasonal DTC Redeamable
+SM099-GC,Spiced Mexican Chocolate,Mini,099,Spiced Mexican Chocolate,GC,LM099-GC,Rust,6,,6,Y,Y,Seasonal DTC Redeamable
+SM116-GC,Horchata Mini,Mini,116,Horchata,GC,LM116-GC,Rust,6,,6,Y,Y,Seasonal DTC Redeamable
+SM119-PC,Kentucky Mule,Mini,119,Kentucky Mule,PC,LM119-PC,Green,6,C12-SM119-PC,12,Y,Y,
+SS001,Rose | Stick,Stick,001,Rose,,,,12,C6-SS001,6,Y,Y,
+SS002,Vanilla | Stick,Stick,002,Vanilla,,,,12,C6-SS002,6,Y,Y,
+SS003,London Fog | Stick,Stick,003,London Fog,,,,12,C6-SS003,6,Y,Y,
+SS004,Salted Caramel | Stick,Stick,004,Salted Caramel,,,,12,C6-SS004,6,Y,Y,
+SS005,Strawberry | Stick,Stick,005,Strawberry,,,,12,C6-SS005,6,Y,Y,
+SS006,Peach | Stick,Stick,006,Peach,,,,12,C6-SS006,6,Y,Y,
+SS007,Raspberry | Stick,Stick,007,Raspberry,,,,12,C6-SS007,6,Y,Y,
+SS008,Grapefruit | Stick,Stick,008,Grapefruit,,,,12,C6-SS008,6,Y,Y,
+SS009,Arcadia Orange | Stick,Stick,009,Arcadia Orange,,,,12,C6-SS009,6,Y,Y,
+SS010,Lemon | Stick,Stick,010,Lemon,,,,12,C6-SS010,6,Y,Y,
+SS011,Moscow Mule | Stick,Stick,011,Moscow Mule,,,,12,C6-SS011,6,Y,Y,
+SS012,Old Fashioned | Stick,Stick,012,Old Fashioned,,,,12,C6-SS012,6,Y,Y,
+SS013,Manhattan | Stick,Stick,013,Manhattan,,,,12,C6-SS013,6,Y,Y,
+SS014,Mint Julep | Stick,Stick,014,Mint Julep,,,,12,C6-SS014,6,Y,Y,
+SS015,Mojito | Stick,Stick,015,Mojito,,,,12,C6-SS015,6,Y,Y,
+SS016,Cosmo | Stick,Stick,016,Cosmo,,,,12,C6-SS016,6,Y,Y,
+SS017,Pumpkin Spice | Stick,Stick,017,Pumpkin Spice,,,,12,C6-SS017,6,Y,Y,
+SS018,Spiced Apple Toddy | Stick,Stick,018,Spiced Apple Toddy,,,,12,C6-SS018,6,Y,Y,
+SS019,White Peppermint Mocha | Stick,Stick,019,White Peppermint Mocha,,,,12,C6-SS019,6,Y,Y,
+SS023,White Chocolate Cocoa | Stick,Stick,023,White Chocolate Cocoa,,,,12,C6-SS023,6,Y,Y,
+SS024,Classic Cocoa | Stick,Stick,024,Classic Cocoa,,,,12,C6-SS024,6,Y,Y,
+SS034,Espresso Martini | Stick,Stick,034,Espresso Martini,,,,12,C6-SS34,6,Y,Y,
+SS119,Kentucky Mule | Stick ,Stick,119,Kentucky Mule,,,,12,C6-SS119,6,Y,Y,
+TB002,Vanilla Bean Cafe Mixer Tallboy,Tallboy,002,Vanilla,,,,30,C6-TB002,6,Y,Y,
+TB003,Lavender London Fog Cafe Mixer Tallboy,Tallboy,003,London Fog,,,,30,C6-TB003,6,Y,Y,
+TB004,Salted Caramel Cafe Mixer Tallboy,Tallboy,004,Salted Caramel,,,,30,C6-TB004,6,Y,Y,
+TB005,Strawberry Bellini Mimosa Mixer Tallboy,Tallboy,005,Shimmer Strawberry,,,,30,C6-TB005,6,Y,Y,
+TB006,Peach Bellini Mimosa Mixer Tallboy,Tallboy,006,Shimmer Peach,,,,30,C6-TB006,6,Y,Y,
+TB009,Orange Mimosa Mimosa Mixer Tallboy,Tallboy,009,Arcadia Orange,,,,30,C6-TB009,6,Y,Y,
+TB012,Old Fashioned Cocktail Mixer Tallboy,Tallboy,012,Old Fashioned,,,,30,C6-TB012,6,Y,Y,
+TB013,Manhattan Cocktail Mixer Tallboy,Tallboy,013,Manhattan,,,,30,C6-TB013,6,Y,Y,
+TB016,Cosmo Martini Cocktail Mixer Tallboy,Tallboy,016,Cosmo,,,,30,C6-TB016,6,Y,Y,
+TB017,Pumpkin Spice Cafe Mixer Tallboy,Tallboy,017,Pumpkin Spice,,,,30,C6-TB017,6,Y,Y,Out 
+TB018,Spiced Apple Toddy Cocktail Mixer Tallboy,Tallboy,018,Spiced Apple Toddy,,,,30,C6-TB018,6,Y,Y,
+TB034,Espresso Martini Cocktail Mixer Tallboy,Tallboy,034,Espresso Martini,,,,30,C6-TB034,6,Y,Y,
+TB045,Gingerbread Latte Cafe Mixer Tallboy,Tallboy,045,Gingerbread,,,,30,C6-TB045,6,Y,Y,Out
+TB047,Crushed Candy Cane Cafe Mixer Tallboy,Tallboy,047,Crushed Candy Cane,,,,30,C6-TB047,6,Y,Y,
+TB049,Cinnamon Hazelnut Cafe Mixer Tallboy,Tallboy,049,Cinnamon Hazelnut,,,,30,C6-TB049,6,Y,Y,
+TB056,Aperitivo Spritz Cocktail Mixer Tallboy,Tallboy,056,Aperitivo ,,,,30,C6-TB056,6,Y,Y,
+TB058,Lemon Drop Martini Cocktail Mixer Tallboy,Tallboy,058,Lemon Drop,,,,30,C6-TB058,6,Y,Y,
+TB059,Apple Cider Mimosa Mixer Tallboy,Tallboy,059,Apple Cider,,,,30,C6-TB059,6,Y,Y,
