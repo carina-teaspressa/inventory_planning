@@ -1,4 +1,7 @@
 sku,product_name,product_type,flavor_code,flavor_name,flavor_category,label_code,cap_color,cubes_per_unit,case_sku,case_qty,include_in_plan,active,notes
+GGS005,Mini Mimosa Kit,Bundle,,,,,,,,,N,N,Legacy Inactive
+GGS006,Mini Holiday Kit,Bundle,,,,,,,,,N,N,Legacy Inactive
+GGS020,Mini Hot Cocoa Kit,Bundle,,,,,,,,,N,N,Legacy Inactive
 GS001,Champagne Brunch Kit,Kit,,,,,,18,GS001-CS6,3,Y,N,inactive
 GS001-2,Seasonal Stick Kit,Kit,,,,,,18,GS001-2-CS6,3,Y,N,inactive
 GS002,Champagne Cocktail Mixer Kit,Kit,,,,,,18,GS002-CS6,6,N,N,inactive
@@ -176,14 +179,22 @@ SB009,Arcadia Orange,Bulk Bag,009,Arcadia Orange,,,,50,,6,Y,Y,
 SB010,Shimmer Lemon,Bulk Bag,010,Shimmer Lemon,,,,50,,6,Y,Y,
 SB011,Moscow Mule,Bulk Bag,011,Moscow Mule,,,,50,,6,Y,Y,
 SB012,Old Fashioned,Bulk Bag,012,Old Fashioned,,,,50,,6,Y,Y,
+SB012-WS,Old Fashioned (Wedding Shop) 1/2 lb. Bulk Bag,Bulk Bag ,012,Old Fashioned ,,,,50,,,Y,Y,
 SB013,Manhattan,Bulk Bag,013,Manhattan,,,,50,,6,Y,Y,
 SB016,Shimmer Cosmo,Bulk Bag,016,Shimmer Cosmo,,,,50,,6,Y,Y,
+SB017,Pumpkin Spice,Bulk Bag ,017,,,,,50,,,Y,Y,
 SB023,White Chocolate Mocha,Bulk Bag,023,White Chocolate Mocha,,,,50,,6,Y,Y,
 SB024,Classic Cocoa,Bulk Bag,024,Classic Cocoa,,,,50,,6,Y,Y,
 SB034,Espresso Martini,Bulk Bag,034,Espresso Martini,,,,50,,6,Y,Y,
+SB034-WS,Espresso Martini (Wedding Shop) 1/2 lb. Bulk Bag,Bulk Bag ,034,Espresso Martini,,,,50,,,Y,Y,
+SB036-WS,Shimmering Peach Bellini (Wedding Shop) 1/2 lb. Bulk Bag,Bulk Bag ,036,Peach Bellini,,,,50,,,Y,Y,
+SB045,Gingerbread,Bulk Bag ,045,,,,,50,,,Y,Y,
+SB047,Crushed Candy Cane,Bulk Bag ,047,,,,,50,,,Y,Y,
 SB049,Cinnamon Hazelnut,Bulk Bag,049,Cinnamon Hazelnut,,,,50,,6,Y,Y,
 SB056,Aperitivo Spritz Bulk Bag,Bulk Bag,056,Aperitivo Spritz,,,,50,,,Y,Y,
 SB058,Shimmer Lemon Drop,Bulk Bag,058,Shimmer Lemon Drop,,,,50,,6,Y,Y,
+SB058-WS,Lemon Drop (Wedding Shop) 1/2 lb. Bulk Bag,Bulk Bag ,058,Lemon Drop,,,,50,,,Y,Y,
+SB059,Spiced Apple Cider,Bulk Bag ,059,,,,,50,,,Y,Y,
 SB119,Kentucky Mule,Bulk Bag,119,Kentucky Mule,,,,50,,6,Y,Y,
 SM001-GC,Rose,Mini,001,Rose,GC,LM001-GC,Rust,6,C12-SM001-GC,12,Y,Y,
 SM002-GC,Vanilla,Mini,002,Vanilla,GC,LM002-GC,Rust,6,C12-SM002-GC,12,Y,Y,
@@ -198,12 +209,18 @@ SM010-PM,Shimmer Lemon,Mini,010,Shimmer Lemon,PM,LM010-PM,Cream,6,C12-SM010-PM,1
 SM011-PC,Moscow Mule,Mini,011,Moscow Mule,PC,LM011-PC,Green,6,C12-SM011-PC,12,Y,Y,
 SM012-PC,Old Fashioned,Mini,012,Old Fashioned,PC,LM012-PC,Green,6,C12-SM012-PC,12,Y,Y,
 SM013-PC,Manhattan,Mini,013,Manhattan,PC,LM013-PC,Green,6,C12-SM013-PC,12,Y,Y,
+SM014,Mint Julep | MINI,Mini,014,Mint Julep,,,,6,,,Y,N,
+SM015,,,,,,,,,,,,,
 SM016-PC,Shimmer Cosmo,Mini,016,Shimmer Cosmo,PC,LM016-PC,Green,6,C12-SM016-PC,12,Y,Y,
 SM017,Pumpkin Spice Mini,Mini,017,Pumpkin Spice,,,,6,C6-SM017,6,Y,Y,Legacy Mini
 SM018,Spiced Apple Toddy Mini,Mini,018,Spiced Apple Toddy,,,,6,C6-SM018,6,Y,Y,Legacy Mini
 SM023-GC,White Chocolate Mocha,Mini,023,White Chocolate Mocha,GC,LM023-GC,Rust,6,C12-SM023-GC,12,Y,Y,
 SM024-GC,Classic Cocoa,Mini,024,Classic Cocoa,GC,LM024-GC,Rust,6,C12-SM024-GC,12,Y,Y,
+SM025,,,,,,,,,,,,,
 SM034-PC,Espresso Martini,Mini,034,Espresso Martini,PC,LM034-PC,Green,6,C12-SM034-PC,12,Y,Y,
+SM045,Gingerbread | MINI,Mini,045,Gingerbread,,,,6,,,Y,N,
+SM046,Sugar Cookie | MINI,Mini,046,Sugar Cookie,,,,6,,,Y,N,
+SM047,Crushed Candy Cane | MINI,Mini,047,Crushed Candy Cane,,,,6,,,Y,N,
 SM049-GC,Cinnamon Hazelnut,Mini,049,Cinnamon Hazelnut,GC,LM049-GC,Rust,6,C12-SM049-GC,12,Y,Y,
 SM058-PC,Shimmer Lemon Drop,Mini,058,Shimmer Lemon Drop,PC,LM058-PC,Green,6,C12-SM058-PC,12,Y,Y,
 SM095-GC,Roasted Pear Mini,Mini,095,Roasted Pear,GC,LM095-GC,Rust,6,,6,Y,Y,Seasonal DTC Redeamable
@@ -232,6 +249,7 @@ SS019,White Peppermint Mocha | Stick,Stick,019,White Peppermint Mocha,,,,12,C6-S
 SS023,White Chocolate Cocoa | Stick,Stick,023,White Chocolate Cocoa,,,,12,C6-SS023,6,Y,Y,
 SS024,Classic Cocoa | Stick,Stick,024,Classic Cocoa,,,,12,C6-SS024,6,Y,Y,
 SS034,Espresso Martini | Stick,Stick,034,Espresso Martini,,,,12,C6-SS34,6,Y,Y,
+SS058,Lemon Drop,Bulk Bag ,058,,,,,50,,,Y,Y,
 SS119,Kentucky Mule | Stick ,Stick,119,Kentucky Mule,,,,12,C6-SS119,6,Y,Y,
 TB002,Vanilla Bean Cafe Mixer Tallboy,Tallboy,002,Vanilla,,,,30,C6-TB002,6,Y,Y,
 TB003,Lavender London Fog Cafe Mixer Tallboy,Tallboy,003,London Fog,,,,30,C6-TB003,6,Y,Y,
