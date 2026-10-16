@@ -1,11 +1,11 @@
 {
- "pulled_at": "2026-10-15T17:38:39Z",
+ "pulled_at": "2026-10-16T17:11:28Z",
  "statuses": [
   "awaiting_shipment",
   "on_hold"
  ],
- "order_count": 139,
- "line_count": 483,
+ "order_count": 75,
+ "line_count": 348,
  "lines": [
   {
    "order_number": "898277552",
@@ -366,62 +366,6 @@
    "store": "B2B - Wholesale",
    "sku": "TA020-RD",
    "qty": 24
-  },
-  {
-   "order_number": "WH010098",
-   "order_date": "2026-06-11",
-   "status": "on_hold",
-   "store": "B2B - Wholesale",
-   "sku": "GS110",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010098",
-   "order_date": "2026-06-11",
-   "status": "on_hold",
-   "store": "B2B - Wholesale",
-   "sku": "GS112",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010098",
-   "order_date": "2026-06-11",
-   "status": "on_hold",
-   "store": "B2B - Wholesale",
-   "sku": "GS113",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010098",
-   "order_date": "2026-06-11",
-   "status": "on_hold",
-   "store": "B2B - Wholesale",
-   "sku": "GS171",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010098",
-   "order_date": "2026-06-11",
-   "status": "on_hold",
-   "store": "B2B - Wholesale",
-   "sku": "GS173",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010098",
-   "order_date": "2026-06-11",
-   "status": "on_hold",
-   "store": "B2B - Wholesale",
-   "sku": "GS174",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010098",
-   "order_date": "2026-06-11",
-   "status": "on_hold",
-   "store": "B2B - Wholesale",
-   "sku": "GS175",
-   "qty": 6
   },
   {
    "order_number": "100431",
@@ -810,7 +754,7 @@
   {
    "order_number": "WH010112",
    "order_date": "2026-06-12",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS112",
    "qty": 6
@@ -818,7 +762,7 @@
   {
    "order_number": "WH010112",
    "order_date": "2026-06-12",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS124",
    "qty": 6
@@ -826,7 +770,7 @@
   {
    "order_number": "WH010112",
    "order_date": "2026-06-12",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS125",
    "qty": 6
@@ -834,7 +778,7 @@
   {
    "order_number": "WH010112",
    "order_date": "2026-06-12",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS126",
    "qty": 6
@@ -842,7 +786,7 @@
   {
    "order_number": "WH010112",
    "order_date": "2026-06-12",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS171",
    "qty": 6
@@ -850,7 +794,7 @@
   {
    "order_number": "WH010112",
    "order_date": "2026-06-12",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS173",
    "qty": 6
@@ -858,7 +802,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "BPA011",
    "qty": 1
@@ -866,7 +810,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "BPA019",
    "qty": 1
@@ -874,7 +818,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS112",
    "qty": 12
@@ -882,7 +826,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS115",
    "qty": 12
@@ -890,7 +834,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS129",
    "qty": 6
@@ -898,7 +842,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "GS170",
    "qty": 12
@@ -906,7 +850,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "SM005-S",
    "qty": 1
@@ -914,7 +858,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "SM006-S",
    "qty": 1
@@ -922,7 +866,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "SM007-S",
    "qty": 1
@@ -930,7 +874,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "SM010-S",
    "qty": 1
@@ -938,7 +882,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "SM034-S",
    "qty": 1
@@ -946,7 +890,7 @@
   {
    "order_number": "WH010169",
    "order_date": "2026-06-13",
-   "status": "on_hold",
+   "status": "awaiting_shipment",
    "store": "B2B - Wholesale",
    "sku": "SM058-S",
    "qty": 1
@@ -998,918 +942,6 @@
    "store": "Faire",
    "sku": "GS078",
    "qty": 120
-  },
-  {
-   "order_number": "MO-PS0004",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0004",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0005",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0005",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0010",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0010",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0013",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0013",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0015",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0015",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0016",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0016",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0017",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0017",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 18
-  },
-  {
-   "order_number": "MO-PS0018",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0018",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0020",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0020",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0023",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0023",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0024",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0024",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0026",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 24
-  },
-  {
-   "order_number": "MO-PS0026",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0027",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 18
-  },
-  {
-   "order_number": "MO-PS0027",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0028",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0028",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0031",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0031",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0032",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0032",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0033",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0033",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0035",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 18
-  },
-  {
-   "order_number": "MO-PS0035",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0036",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0036",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0039",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0039",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0040",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0040",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0041",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0041",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0043",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0043",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0044",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0044",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0046",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0046",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0048",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0048",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0049",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0049",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0051",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0051",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0052",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0052",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0060",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0060",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0061",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0061",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0062",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0062",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0064",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0064",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0066",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0066",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0067",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0067",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0068",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0068",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0069",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0069",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0070",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0070",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0071",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0071",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0073",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0073",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0074",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0074",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0075",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0075",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0078",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0078",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0079",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0079",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0080",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0080",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0081",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 24
-  },
-  {
-   "order_number": "MO-PS0081",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0084",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0084",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0087",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0087",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0088",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0088",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0091",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 18
-  },
-  {
-   "order_number": "MO-PS0091",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0094",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0094",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0097",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0097",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0098",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0098",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0099",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0099",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0100",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0100",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0102",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0102",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "MO-PS0103",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS102",
-   "qty": 12
-  },
-  {
-   "order_number": "MO-PS0103",
-   "order_date": "2026-08-17",
-   "status": "awaiting_shipment",
-   "store": "Manual Orders",
-   "sku": "GS104",
-   "qty": 12
   },
   {
    "order_number": "WH010262",
@@ -2008,110 +1040,6 @@
    "qty": 6
   },
   {
-   "order_number": "XBESZJJF25",
-   "order_date": "2026-09-15",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS071",
-   "qty": 6
-  },
-  {
-   "order_number": "XBESZJJF25",
-   "order_date": "2026-09-15",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS105",
-   "qty": 6
-  },
-  {
-   "order_number": "XBESZJJF25",
-   "order_date": "2026-09-15",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS116",
-   "qty": 6
-  },
-  {
-   "order_number": "XBESZJJF25",
-   "order_date": "2026-09-15",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SJ002",
-   "qty": 6
-  },
-  {
-   "order_number": "XBESZJJF25",
-   "order_date": "2026-09-15",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SJ003",
-   "qty": 6
-  },
-  {
-   "order_number": "3QX8URZUGB",
-   "order_date": "2026-09-22",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SB001",
-   "qty": 1
-  },
-  {
-   "order_number": "3QX8URZUGB",
-   "order_date": "2026-09-22",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SB013",
-   "qty": 1
-  },
-  {
-   "order_number": "BS2WYSPBT6",
-   "order_date": "2026-09-23",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS116",
-   "qty": 12
-  },
-  {
-   "order_number": "BS2WYSPBT6",
-   "order_date": "2026-09-23",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS121",
-   "qty": 12
-  },
-  {
-   "order_number": "BS2WYSPBT6",
-   "order_date": "2026-09-23",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS170",
-   "qty": 6
-  },
-  {
-   "order_number": "BS2WYSPBT6",
-   "order_date": "2026-09-23",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS173",
-   "qty": 12
-  },
-  {
-   "order_number": "BS2WYSPBT6",
-   "order_date": "2026-09-23",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "TB034",
-   "qty": 18
-  },
-  {
-   "order_number": "9XZZTQR874",
-   "order_date": "2026-09-24",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS122",
-   "qty": 150
-  },
-  {
    "order_number": "9CAP7YTMJ5",
    "order_date": "2026-09-28",
    "status": "awaiting_shipment",
@@ -2126,14 +1054,6 @@
    "store": "Faire",
    "sku": "SM018",
    "qty": 12
-  },
-  {
-   "order_number": "4NHNDXWZC5",
-   "order_date": "2026-09-29",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS122",
-   "qty": 72
   },
   {
    "order_number": "TKQ93RM5TW",
@@ -2222,62 +1142,6 @@
    "store": "Faire",
    "sku": "SM011",
    "qty": 12
-  },
-  {
-   "order_number": "JD6JJRKSMJ",
-   "order_date": "2026-10-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS068",
-   "qty": 18
-  },
-  {
-   "order_number": "JD6JJRKSMJ",
-   "order_date": "2026-10-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS105",
-   "qty": 18
-  },
-  {
-   "order_number": "JD6JJRKSMJ",
-   "order_date": "2026-10-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS129",
-   "qty": 24
-  },
-  {
-   "order_number": "JD6JJRKSMJ",
-   "order_date": "2026-10-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS170",
-   "qty": 12
-  },
-  {
-   "order_number": "JD6JJRKSMJ",
-   "order_date": "2026-10-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS171",
-   "qty": 12
-  },
-  {
-   "order_number": "SW57ZAXMTD",
-   "order_date": "2026-10-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS105",
-   "qty": 6
-  },
-  {
-   "order_number": "SW57ZAXMTD",
-   "order_date": "2026-10-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS112",
-   "qty": 6
   },
   {
    "order_number": "8SBAWB65KJ",
@@ -2728,14 +1592,6 @@
    "qty": 6
   },
   {
-   "order_number": "M4HF5F8X9S",
-   "order_date": "2026-10-10",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS148",
-   "qty": 12
-  },
-  {
    "order_number": "TEB2QUN8Q2",
    "order_date": "2026-10-10",
    "status": "awaiting_shipment",
@@ -3144,134 +2000,6 @@
    "qty": 30
   },
   {
-   "order_number": "WH010288",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS003-1",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010288",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS170",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010288",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS171",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010288",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS174",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010288",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM024",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010288",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM049",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM005",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM006",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM007",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM009",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM010",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM016",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM034-PC",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SS005",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SS009",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010290",
-   "order_date": "2026-10-12",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SS016",
-   "qty": 6
-  },
-  {
    "order_number": "83KFEM2NX2",
    "order_date": "2026-10-13",
    "status": "awaiting_shipment",
@@ -3326,14 +2054,6 @@
    "store": "Faire",
    "sku": "GS125",
    "qty": 6
-  },
-  {
-   "order_number": "OR37169",
-   "order_date": "2026-10-13",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS113",
-   "qty": 1
   },
   {
    "order_number": "V4U89GXPY8",
@@ -3520,198 +2240,6 @@
    "qty": 6
   },
   {
-   "order_number": "OR37177",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TB012",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37178",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS069",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37179",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TA017-G",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37179",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TB012",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37179",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TB012",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37180",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS095",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37180",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS112",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37181",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS146",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37181",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS149",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37182",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS146",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37182",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS149",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS071",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS102",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS103",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS104",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS105",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "SM007",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "SM008",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "SM014",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "SM095-GC",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TA017-G",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TB034",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37183",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "TB058",
-   "qty": 1
-  },
-  {
-   "order_number": "OR37184",
-   "order_date": "2026-10-14",
-   "status": "awaiting_shipment",
-   "store": "DTC",
-   "sku": "GS170",
-   "qty": 1
-  },
-  {
    "order_number": "SG82S3XKW7",
    "order_date": "2026-10-14",
    "status": "awaiting_shipment",
@@ -3800,27 +2328,323 @@
    "qty": 48
   },
   {
-   "order_number": "JQQAP8Y5YU",
+   "order_number": "GQPV9QQD5H",
    "order_date": "2026-10-15",
    "status": "awaiting_shipment",
    "store": "Faire",
+   "sku": "GS113",
+   "qty": 6
+  },
+  {
+   "order_number": "GQPV9QQD5H",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS121",
+   "qty": 6
+  },
+  {
+   "order_number": "GQPV9QQD5H",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "GQPV9QQD5H",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "GQPV9QQD5H",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS171",
+   "qty": 6
+  },
+  {
+   "order_number": "GQPV9QQD5H",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS173",
+   "qty": 6
+  },
+  {
+   "order_number": "OR37188",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS154",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37189",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SB058-WS",
+   "qty": 2
+  },
+  {
+   "order_number": "OR37190",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
    "sku": "GS097",
    "qty": 1
   },
   {
-   "order_number": "OR37185",
+   "order_number": "OR37190",
    "order_date": "2026-10-15",
    "status": "awaiting_shipment",
    "store": "DTC",
-   "sku": "SM004",
+   "sku": "GS146",
    "qty": 1
   },
   {
-   "order_number": "OR37185",
+   "order_number": "OR37190",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS148",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37190",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS149",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37190",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM095-GC",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37190",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TA017-G",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37190",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB016",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37190",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB034",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37190",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB058",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37191",
    "order_date": "2026-10-15",
    "status": "awaiting_shipment",
    "store": "DTC",
    "sku": "TB002",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37192",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS172",
+   "qty": 2
+  },
+  {
+   "order_number": "OR37192",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB003",
+   "qty": 1
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "GS110",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "GS170",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "SM011",
+   "qty": 12
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "SS010",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "TB002",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "TB004",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "TB018",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "TB047",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010294",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "TB049",
+   "qty": 6
+  },
+  {
+   "order_number": "WH010295",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "B2B - Wholesale",
+   "sku": "GS113",
+   "qty": 2
+  },
+  {
+   "order_number": "WHCE9UCSMW",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS101",
+   "qty": 6
+  },
+  {
+   "order_number": "WHCE9UCSMW",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS102",
+   "qty": 6
+  },
+  {
+   "order_number": "WHCE9UCSMW",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS103",
+   "qty": 6
+  },
+  {
+   "order_number": "WHCE9UCSMW",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "WHCE9UCSMW",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS105",
+   "qty": 6
+  },
+  {
+   "order_number": "WHCE9UCSMW",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
+   "order_number": "WHCE9UCSMW",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "SB005",
+   "qty": 1
+  },
+  {
+   "order_number": "WHCE9UCSMW",
+   "order_date": "2026-10-15",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "SB009",
    "qty": 1
   },
   {
@@ -3870,6 +2694,102 @@
    "store": "Faire",
    "sku": "GS129",
    "qty": 6
+  },
+  {
+   "order_number": "K8FP4JMGH2",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "SM012",
+   "qty": 12
+  },
+  {
+   "order_number": "K8FP4JMGH2",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "SM013",
+   "qty": 12
+  },
+  {
+   "order_number": "K8FP4JMGH2",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "SM016",
+   "qty": 12
+  },
+  {
+   "order_number": "OR37193",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS146",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37194",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS095",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37194",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS150",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37195",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM012",
+   "qty": 6
+  },
+  {
+   "order_number": "OR37196",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS146",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37196",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS149",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37197",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS115",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37197",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB049",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37197",
+   "order_date": "2026-10-16",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TP001",
+   "qty": 1
   }
  ]
 }
