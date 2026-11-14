@@ -1,11 +1,11 @@
 {
- "pulled_at": "2026-11-13T20:21:21Z",
+ "pulled_at": "2026-11-14T18:39:36Z",
  "statuses": [
   "awaiting_shipment",
   "on_hold"
  ],
- "order_count": 48,
- "line_count": 184,
+ "order_count": 45,
+ "line_count": 167,
  "lines": [
   {
    "order_number": "WH010017",
@@ -158,198 +158,6 @@
    "store": "Faire",
    "sku": "TB016",
    "qty": 6
-  },
-  {
-   "order_number": "WH010285",
-   "order_date": "2026-10-05",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "TB012",
-   "qty": 0
-  },
-  {
-   "order_number": "WH010306",
-   "order_date": "2026-11-03",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "",
-   "qty": 1
-  },
-  {
-   "order_number": "WH010306",
-   "order_date": "2026-11-03",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS115-S",
-   "qty": 1
-  },
-  {
-   "order_number": "WH010306",
-   "order_date": "2026-11-03",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS129",
-   "qty": 6
-  },
-  {
-   "order_number": "7ARUPGCWE9",
-   "order_date": "2026-11-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS100",
-   "qty": 6
-  },
-  {
-   "order_number": "7ARUPGCWE9",
-   "order_date": "2026-11-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS105",
-   "qty": 6
-  },
-  {
-   "order_number": "85WH8EJ8G2",
-   "order_date": "2026-11-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "85WH8EJ8G2",
-   "order_date": "2026-11-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS170",
-   "qty": 6
-  },
-  {
-   "order_number": "85WH8EJ8G2",
-   "order_date": "2026-11-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "TA017",
-   "qty": 12
-  },
-  {
-   "order_number": "TKP42MXGYZ",
-   "order_date": "2026-11-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS122",
-   "qty": 6
-  },
-  {
-   "order_number": "TKP42MXGYZ",
-   "order_date": "2026-11-07",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS124",
-   "qty": 6
-  },
-  {
-   "order_number": "7DAGSXJS49",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS099",
-   "qty": 6
-  },
-  {
-   "order_number": "7DAGSXJS49",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS103",
-   "qty": 6
-  },
-  {
-   "order_number": "JNCK824Z38",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS101",
-   "qty": 6
-  },
-  {
-   "order_number": "JNCK824Z38",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS124",
-   "qty": 6
-  },
-  {
-   "order_number": "JNCK824Z38",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS128",
-   "qty": 6
-  },
-  {
-   "order_number": "MCAMK3XE6Z",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS096",
-   "qty": 12
-  },
-  {
-   "order_number": "MCAMK3XE6Z",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS102",
-   "qty": 6
-  },
-  {
-   "order_number": "MCAMK3XE6Z",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS107",
-   "qty": 6
-  },
-  {
-   "order_number": "W5S58JGZ7B",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SM002",
-   "qty": 12
-  },
-  {
-   "order_number": "W5S58JGZ7B",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SM003",
-   "qty": 12
-  },
-  {
-   "order_number": "W5S58JGZ7B",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SM004",
-   "qty": 12
-  },
-  {
-   "order_number": "W5S58JGZ7B",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SM023",
-   "qty": 12
-  },
-  {
-   "order_number": "W5S58JGZ7B",
-   "order_date": "2026-11-08",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "TA017",
-   "qty": 12
   },
   {
    "order_number": "3UGY4XAGRX",
@@ -816,30 +624,6 @@
    "qty": 6
   },
   {
-   "order_number": "VX3R92JB42",
-   "order_date": "2026-11-10",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SB034",
-   "qty": 1
-  },
-  {
-   "order_number": "VX3R92JB42",
-   "order_date": "2026-11-10",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SB045",
-   "qty": 1
-  },
-  {
-   "order_number": "4RGSQ6755A",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "SM024",
-   "qty": 12
-  },
-  {
    "order_number": "53G5BZYYXH",
    "order_date": "2026-11-11",
    "status": "awaiting_shipment",
@@ -893,126 +677,6 @@
    "status": "awaiting_shipment",
    "store": "Faire",
    "sku": "GS175",
-   "qty": 6
-  },
-  {
-   "order_number": "UBQWGEZA9S",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS121",
-   "qty": 30
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS003-1",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS100",
-   "qty": 18
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS101",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS103",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS104",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS105",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS112",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS122",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS124",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM004",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM006-BL",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SM034-PC",
-   "qty": 12
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "SS012",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010309",
-   "order_date": "2026-11-11",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "TB012",
    "qty": 6
   },
   {
@@ -1182,14 +846,6 @@
    "store": "Faire",
    "sku": "GS123",
    "qty": 6
-  },
-  {
-   "order_number": "MA8XCVHT3R",
-   "order_date": "2026-11-12",
-   "status": "awaiting_shipment",
-   "store": "Faire",
-   "sku": "GS172",
-   "qty": 1
   },
   {
    "order_number": "P6M8X3Q6NB",
@@ -1368,6 +1024,54 @@
    "qty": 1
   },
   {
+   "order_number": "AG2G9GUQKM",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS071",
+   "qty": 6
+  },
+  {
+   "order_number": "AG2G9GUQKM",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS102",
+   "qty": 6
+  },
+  {
+   "order_number": "AG2G9GUQKM",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS104",
+   "qty": 6
+  },
+  {
+   "order_number": "AG2G9GUQKM",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS112",
+   "qty": 6
+  },
+  {
+   "order_number": "APQ5QG8FMG",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS105",
+   "qty": 6
+  },
+  {
+   "order_number": "APQ5QG8FMG",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS106",
+   "qty": 6
+  },
+  {
    "order_number": "DF8NJWMJYD",
    "order_date": "2026-11-13",
    "status": "awaiting_shipment",
@@ -1392,6 +1096,14 @@
    "qty": 6
   },
   {
+   "order_number": "H68B9W79KU",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "TJ004",
+   "qty": 150
+  },
+  {
    "order_number": "OR37421",
    "order_date": "2026-11-13",
    "status": "awaiting_shipment",
@@ -1408,76 +1120,228 @@
    "qty": 1
   },
   {
-   "order_number": "WH010310",
+   "order_number": "OR37424",
    "order_date": "2026-11-13",
    "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS071",
+   "store": "DTC",
+   "sku": "GS037-PK",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37424",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS087",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37424",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS101",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37424",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS114",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37424",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS172",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37424",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS175",
+   "qty": 1
+  },
+  {
+   "order_number": "YkTt5ahVUK-A",
+   "order_date": "2026-11-13",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GT034",
+   "qty": 1
+  },
+  {
+   "order_number": "K5WB7W44JP",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS101",
    "qty": 6
   },
   {
-   "order_number": "WH010310",
-   "order_date": "2026-11-13",
+   "order_number": "K5WB7W44JP",
+   "order_date": "2026-11-14",
    "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS096",
+   "store": "Faire",
+   "sku": "GS115",
+   "qty": 6
+  },
+  {
+   "order_number": "K5WB7W44JP",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS117",
+   "qty": 6
+  },
+  {
+   "order_number": "K5WB7W44JP",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS125",
+   "qty": 6
+  },
+  {
+   "order_number": "K5WB7W44JP",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS126",
+   "qty": 6
+  },
+  {
+   "order_number": "K5WB7W44JP",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS172",
+   "qty": 6
+  },
+  {
+   "order_number": "M9Q2QDHVBR",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "TA003-CL",
+   "qty": 18
+  },
+  {
+   "order_number": "OR37425",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB003",
    "qty": 2
   },
   {
-   "order_number": "WH010310",
-   "order_date": "2026-11-13",
+   "order_number": "OR37426",
+   "order_date": "2026-11-14",
    "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS103",
+   "store": "DTC",
+   "sku": "GS095",
    "qty": 1
   },
   {
-   "order_number": "WH010310",
-   "order_date": "2026-11-13",
+   "order_number": "OR37426",
+   "order_date": "2026-11-14",
    "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS110",
-   "qty": 6
+   "store": "DTC",
+   "sku": "GS098",
+   "qty": 1
   },
   {
-   "order_number": "WH010310",
-   "order_date": "2026-11-13",
+   "order_number": "OR37426",
+   "order_date": "2026-11-14",
    "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
+   "store": "DTC",
    "sku": "GS112",
-   "qty": 6
-  },
-  {
-   "order_number": "WH010310",
-   "order_date": "2026-11-13",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS119",
-   "qty": 3
-  },
-  {
-   "order_number": "WH010310",
-   "order_date": "2026-11-13",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS171",
-   "qty": 3
-  },
-  {
-   "order_number": "WH010310",
-   "order_date": "2026-11-13",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS173",
-   "qty": 4
-  },
-  {
-   "order_number": "WH010310",
-   "order_date": "2026-11-13",
-   "status": "awaiting_shipment",
-   "store": "B2B - Wholesale",
-   "sku": "GS175",
    "qty": 1
+  },
+  {
+   "order_number": "OR37426",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS115",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37427",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS107",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37427",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SS011",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37427",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SS012",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37428",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM002",
+   "qty": 5
+  },
+  {
+   "order_number": "OR37428",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "SM003",
+   "qty": 5
+  },
+  {
+   "order_number": "OR37428",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TA017-SV",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37428",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB003",
+   "qty": 2
+  },
+  {
+   "order_number": "S9YAN8UDAJ",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS106",
+   "qty": 12
+  },
+  {
+   "order_number": "S9YAN8UDAJ",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS107",
+   "qty": 6
   }
  ]
 }
