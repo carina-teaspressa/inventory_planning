@@ -1,11 +1,11 @@
 {
- "pulled_at": "2026-11-14T18:39:36Z",
+ "pulled_at": "2026-11-15T19:16:29Z",
  "statuses": [
   "awaiting_shipment",
   "on_hold"
  ],
- "order_count": 45,
- "line_count": 167,
+ "order_count": 56,
+ "line_count": 188,
  "lines": [
   {
    "order_number": "WH010017",
@@ -1176,6 +1176,46 @@
    "qty": 1
   },
   {
+   "order_number": "CZUJF9GUJ6",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS128",
+   "qty": 6
+  },
+  {
+   "order_number": "CZUJF9GUJ6",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS129",
+   "qty": 6
+  },
+  {
+   "order_number": "CZUJF9GUJ6",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "GS175",
+   "qty": 6
+  },
+  {
+   "order_number": "CZUJF9GUJ6",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "TB045",
+   "qty": 6
+  },
+  {
+   "order_number": "CZUJF9GUJ6",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "Faire",
+   "sku": "TB049",
+   "qty": 6
+  },
+  {
    "order_number": "K5WB7W44JP",
    "order_date": "2026-11-14",
    "status": "awaiting_shipment",
@@ -1328,6 +1368,94 @@
    "qty": 2
   },
   {
+   "order_number": "OR37429",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS112",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37430",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS118",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37430",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB013",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37431",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS098",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37431",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS171",
+   "qty": 2
+  },
+  {
+   "order_number": "OR37432",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS097",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37432",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS112",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37433",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS106",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37433",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB004",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37434",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB006",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37435",
+   "order_date": "2026-11-14",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "TB013",
+   "qty": 1
+  },
+  {
    "order_number": "S9YAN8UDAJ",
    "order_date": "2026-11-14",
    "status": "awaiting_shipment",
@@ -1342,6 +1470,46 @@
    "store": "Faire",
    "sku": "GS107",
    "qty": 6
+  },
+  {
+   "order_number": "OR37436",
+   "order_date": "2026-11-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37436",
+   "order_date": "2026-11-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS105",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37437",
+   "order_date": "2026-11-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS098",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37437",
+   "order_date": "2026-11-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS102",
+   "qty": 1
+  },
+  {
+   "order_number": "OR37438",
+   "order_date": "2026-11-15",
+   "status": "awaiting_shipment",
+   "store": "DTC",
+   "sku": "GS100",
+   "qty": 1
   }
  ]
 }
